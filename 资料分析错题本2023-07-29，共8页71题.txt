@@ -1,0 +1,2600 @@
+[
+    {
+        "materials": [
+            {
+                "id": 312960,
+                "content": "<p>        2019年，我国快递业务量为635.2亿件，其中东部、中部、西部分别完成业务量506.3亿件、81.9亿件和47亿件。全年快递业务收入7497.8亿元，其中东部、中部、西部的业务收入所占比重分别为80.2%、11.3%和8.5%。东部、中部、西部业务收入占全国比重分别比上年上升0.2个百分点、上升0.1个百分点和下降0.3个百分点。</p><p>        2016-2018年，我国快递业务收入分别为3974.4亿元、4957.1亿元、6038.4亿元。</p><p><img width=\"700px\" height=\"413px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/17fc5c4d59f7c05.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 308752,
+                "content": "<p>        增加森林面积、提高森林质量、提升生态系统碳汇增量，将为我国实现碳达峰、碳中和目标、维护全球生态安全做出巨大贡献。1973年，我国开展了第一次森林资源清查。目前已完成第9次森林资源清查，我国森林面积和森林蓄积量连续30年保持“双增长”。“十三五”时期，我国累计造林5.45亿亩，森林覆盖率达到23.04%，森林蓄积量为175.6亿立方米，森林面积达到2.2亿公顷（1公顷为15亩）。湿地保护率达到52%，治理沙化土地1.5亿亩。</p><p><img width=\"600px\" height=\"354px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/17e1ffd135ba2fb.png?width=700\" /></p><p><img width=\"600px\" height=\"364px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/17e1ffd28489809.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 336794,
+                "content": "<p>        零售药店终端包含实体药店和网上药店两大市场。2021年，全国零售药店终端药品销售额4774亿元，同比增长10.3%。其中，实体药店市场药品销售额4405亿元，同比增长7.8%；网上药店市场药品销售额368亿元，同比增长51.5%。</p><p><img width=\"700px\" height=\"370px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18529b43f64222b.png?width=700\" /></p><p><img width=\"700px\" height=\"415px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18529b47948785a.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 308754,
+                "content": "<p>        基层群众性自治组织是我国在城市和农村按居民的居住地区建立起来的居民委员会或村民委员会，是城市居民或农村村民自我管理、自我教育、自我服务的组织。</p><p>        截止2020年底，全国基层群众性自治组织共计61.5万个，同比减少4.35%。其中，村委会50.2万个，占基层群众性自治组织的81.63%，村民小组376.1万个，村委会成员207.3万人；居委会11.3万个，占基层群众性自治组织的18.37%，居民小组123.6万个，居委会成员61.6万人。2016-2020年，我国村（居）委会完成选举数分别为9.7万个、18.2万个、27.6万个、8.8万个、6.1万个，其中，2020年村（居）委会登记选民数为1.1亿人，参与投票人数为0.65亿人。</p><p><img width=\"700px\" height=\"469px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/17e2057c6839e37.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 340955,
+                "content": "<p>        据国家统计局数据显示，2021年我国研究与试验发展（R&amp;D）经费支出27864亿元，同比增长14.2%，占国内生产总值之比为2.44%，其中基础研究经费1696亿元。国家自然科学基金共资助4.87万个项目。2021年全年授予专利权460.1万件，同比增长26.4%；PCT专利申请受理量7.3万件。截至2021年末，有效专利1542.1万件，其中境内有效发明专利270.4万件。每万人口高价值发明专利拥有量7.5件。全年商标注册773.9万件，同比增长34.3%。全年共签订技术合同67万项，技术合同成交金额37294亿元，同比增长32.0%。</p><p><img width=\"454px\" height=\"439px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/186892e7adbce97.png?width=700\" /></p><p><img width=\"626px\" height=\"379px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/186892e951e84a9.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 338027,
+                "content": "<p><img width=\"700px\" height=\"543px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/185917d5f68ac95.jpg?width=700\" /></p><p><img width=\"681px\" height=\"380px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/185911743166e6e.png?width=700\" /></p><p><img width=\"588px\" height=\"356px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/185910812d55391.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 317194,
+                "content": "<p><img width=\"679px\" height=\"237px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/180645e5463e529.png?width=700\" /></p>",
+                "accessories": []
+            }
+        ],
+        "q2subQuestionIds": null,
+        "cdnUrls": null,
+        "solutions": [
+            {
+                "id": 4817789,
+                "content": "<p>不能从上述资料中推出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1648289840334,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2019年我国快递业务收入增速同比上升",
+                            "2019年东部快递业务收入增量大于中部",
+                            "2016-2019年我国年均快递业务收入超过5800亿元",
+                            "2019年我国异地快递业务量占快递业务总量的比重超过80%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>A项：定位文字材料第一段及第二段可得，2017年、2018年、2019年我国快递业务收入分别为4957.1亿元、6038.4亿元、7497.8亿元。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEPl3Hld7lN1fixhByma6Co\" />，则2019年我国快递业务收入增速为：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=_BZf9yjNCyeX2cCviPNeUvpjLvX6bE4vLnNUO3F16oYPDRQ1plmf-EIMgJ1G91H7\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=2YHnOF6EZtU5wJPv7PBs-Z35gD0xIdgDeB0j9VP6VhI\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoi4Nzf7GMfhFQUP5YZSzXqT1VSjg9fZb7ggp3qXgv2EH3\" />，2018年增速为：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=W4pz-ITeuHjcjm3uDe1KWx-weH1Ow3MctajsmZMnzSADQRBCREYbDmMVD1k-c927\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=TgYZVzAiCI9WvVY5ZKKM16GtPcSVAJXnT0URSSRZHaI\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoizvFbfj6M4CltN20YDeFpl1MEN6Y5_8vwEC-AzUEDmeR\" />，增速同比上升，正确；</p><p>B项：定位文字材料第一段及第二段可得，2019年我国东部快递业务收入=7497.8×80.2%，中部快递业务收入=7497.8×11.3%。2018年我国东部快递业务收入=6038.4×（80.2%-0.2%）=6038.4×80%，中部快递业务收入=6038.4×（11.3%-0.1%）=6038.4×11.2%。则2019年我国东部快递业务收入增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ejd6z1couarZ6F4nk8TE1GK2X9kcrUV2zww7mp4Qk6PbyA5ac8FVYbLGXjlCSCx5\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=elqiXOMq7We_mZEOqBq5PoBWBSXq3OAP_nARoW1axpqIDxXIisejYiSyJZkMzCte\" />亿元；2019年我国中部快递业务收入增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=sdqE9FudagkrhqNLKROeGH_aRxhkB1Q01pMnWGHjj9zoad5-dYi8lpKovEoW994X\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=elqiXOMq7We_mZEOqBq5PvXh3fClKcEp5aBPam3cHt6610fBsDvZy1quUMp8FSlZ\" />亿元。东部快递业务收入增量大于中部，正确；</p><p>C项：定位文字材料第一段及第二段可得，2016年、2017年、2018年、2019年我国快递业务收入分别为3974.4亿元、4957.1亿元、6038.4亿元、7497.8亿元。则2016-2019年的年均快递业务收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=DYy8Y2rahuL4xtwPr0I4VPcoZZGx6zIBVeTAgX2lvUTSFAAhENKPMwB4svAmb69n\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=MtgF20tB61aKUhH2CLZtictZzYXIa8V8tWiyKuRIYdhJWa8Z1o-64PttRnMpenLE\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=TKGrwzS6ZgeBY1WggUtGgXGDc7WIPI7z2bJStgC4ro5F3dMwg_0tzlv6MeMqVD3k\" />亿元，未超过5800亿元，错误；</p><p>D项：定位文字材料第一段及图表可得，2019年我国快递业务量为635.2亿件，其中异地快递业务量510.4亿件，则异地快递业务量占快递业务总量的比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=WfFjNsCA_nUAyd5-hsIHW1_7N4ZZXK_P4BC2i_lmxwCmLDP0a9bMIRikoTM3XTLA\" />，超过80%，正确。</p><p>本题为选非题，故正确答案为C。</p>",
+                "source": "2022年四川省公务员录用考试《行测》题（网友回忆版）第100题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 4817785,
+                "content": "<p>如保持2019年同比增量不变，则全国异地快递业务量将在哪一年首次达到同城快递业务量的10倍以上？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1648289828634,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2021年",
+                            "2022年",
+                            "2023年",
+                            "2024年"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>根据题干“如保持2019年同比增量不变，······哪一年首次达到同城快递业务量的10倍以上”，可判定本题为现期量计算问题。结合图形材料可得：2018年、2019年同城快递业务量依次为114.1亿件、110.4亿件，2019年同比增量为110.4-114.1=-3.7亿件；2018年、2019年异地快递业务量依次为381.9亿件、510.4亿件，2019年同比增量为510.4-381.9=128.5亿件。假设n年后异地快递业务量首次达到同城快递业务量的10倍以上，即510.4+128.5n＞10×（110.4-3.7n），整理得：165.5n＞593.6，即n＞3.5，n取值为4，题目所求年份为2019+4=2023年。</p><p>故正确答案为C。</p>",
+                "source": "2022年四川省公务员录用考试《行测》题（网友回忆版）第99题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 4673145,
+                "content": "<p>2016-2018年，我国国际重要湿地面积的年均增长率约为（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1641209919878,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "25%",
+                            "30%",
+                            "35%",
+                            "40%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>根据题干“2016-2018年······年均增长率约为”，可判定本题为年均增长率问题。定位图2可得：2016年与2018年我国国际重要湿地面积分别为61.68万亩、104.24万亩。根据年均增长率公式：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=grKBtJMUaJI6G7twJrz8NA\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh_N6BQgWfdNV7QTODLbmf265LxFfstefSwYYUSUoh3sa\" />（n为年份差），则<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=XnPOi98WT7Wut_OmVx0aMw\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=544eQnLz57AbssjB1-h5nZss_ZsZsLYmR54CqYRBZeM\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoiyMzfuQqGH7t_5kIv_Pumew\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=J2wYwPDesHWr78Hmnubn6whI_cdgj9DIZAHq5Pl4tGo\" />，解得<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=V3HQbF4jtRCg4jH6I0Rdb6ewl_8M7suEOY3Ogoraqgw\" />。</p><p>故正确答案为B。</p>",
+                "source": "2022年广东省公务员录用考试《行测》题（乡镇卷）（网友回忆版）第93题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5430327,
+                "content": "<p>2017～2021年，全国网上药店市场药品销售额同比增速最快的年份是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1671429299597,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2018年",
+                            "2019年",
+                            "2020年",
+                            "2021年"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>根据题干“2017～2021年，全国网上药店市场药品销售额同比增速······”，可判定本题为一般增长率比较问题。定位文字材料可得：2021年，全国网上药店市场药品销售额同比增长51.5%。定位统计图1可得2017～2020年全国零售药店终端药品销售额。定位统计图2可得2017～2020年全国实体药店市场药品销售额。则2017～2020年全国网上药店市场药品销售额分别为3647-3577=70亿元、3919-3820=99亿元、4196-4057=139亿元、4330-4087=243亿元。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEPl3Hld7lN1fixhByma6Co\" />，可得2018-2020年全国网上药店市场药品销售额同比增速分别为：</p><p>2018年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=YTKln_1o2BiJE8GGUvHa9HxqcrvfdHo-5FuPnyaNrjysJWzNqOriyj0r1YEGT3KD\" />；</p><p>2019年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=JE0E-RR8AeTU-kVkOyvh9Dmct9LcVCqn7HRDAELSR2chc2_2vhECNWXoyt6iX554meFMptweH9LScIpL5bl7aA\" />；</p><p>2020年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=zzR0044-PfRMo7nMsCvRw06wox6atoYUlT7P4N4ajTQ0CZ4ZKh7A9N69GJg3HsacHOt-vuYPVddZRqhN91gqZg\" />。</p><p>综上，2020年全国网上药店市场药品销售额同比增速最快。</p><p>故正确答案为C。</p>",
+                "source": "2023年浙江省公务员录用考试《行测》题（C类）（网友回忆版）第14题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 4673211,
+                "content": "<p>相较2019年，2020年村委会占基层群众性自治组织的比重（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1641217986486,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "降低了约1.26个百分点",
+                            "提高了约1.26个百分点",
+                            "降低了约12.6个百分点",
+                            "提高了约12.6个百分点"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“相较2019年，2020年······占·······的比重”，结合选项为降低/提高+百分点，可判定本题为两期比重问题。定位文字材料第二段可得：截止2020年底，村委会占基层群众性自治组织的81.63%；定位统计图可得：2019年村委会53.3万个，居委会11.0万个。则2019年村委会占基层群众性自治组织的比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=3R6gIOKLvnd7d-IpA46CnEEG3tBAUe3YfmQiI8NVSLhYJrSHdmXG6_RTAZG6Y7bNVKxpjgsMfbAbB2FKOICcBA\" />。所求比重差=81.63%-83.0%=-1.37%，即降低了约1.37个百分点，与A项最接近。</p><p>故正确答案为A。</p>",
+                "source": "2022年广东省公务员录用考试《行测》题（乡镇卷）（网友回忆版）第87题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509892,
+                "content": "<p>2017~2021年，我国研究与试验发展经费支出超过年平均值的年份的个数是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677336520750,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1个",
+                            "2个",
+                            "3个",
+                            "4个"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>根据题干“2017~2021年······年平均值······”，可判定本题为现期平均数问题。定位统计图可得：2017~2021年我国研究与试验发展经费支出分别为17606亿元、19678亿元、22144亿元、24393亿元、27864亿元。根据公式：平均数<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=pEp_-VCy1F1cQuKszVIZRuUYpZcVfcCcuf1EOaGYhds\" />，可得2017~2021年的年平均值为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=YnymuL8cx_SR5GghFjQFTVEib0i09GMEIvjHf6BKFnBG4mpGQ9S5fx5RbYcqQ_zhkwIaD5mHQ3chz_jAdACXtmKrFDbvvWhbFWRRqLAvZy8\" />亿元，则超过年平均值的年份有2020年、2021年，共2个。</p><p>故正确答案为B。</p>",
+                "source": "2023年辽宁省公务员录用考试《行测》题（网友回忆版）第104题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5445763,
+                "content": "<p>以下折线图中，最能准确反映2018-2021年我国木材进口额同比增量变化趋势的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1673174042803,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "<p><img width=\"217px\" height=\"197px\" src=\"//fb.fbstatic.cn/api/tarzan/images/1859150dc147604.png?width=700\" /></p>",
+                            "<p><img width=\"190px\" height=\"162px\" src=\"//fb.fbstatic.cn/api/tarzan/images/1859150f4f4184e.png?width=700\" /></p>",
+                            "<p><img width=\"161px\" height=\"162px\" src=\"//fb.fbstatic.cn/api/tarzan/images/18591510c89442b.png?width=700\" /></p>",
+                            "<p><img width=\"171px\" height=\"189px\" src=\"//fb.fbstatic.cn/api/tarzan/images/185915129690764.png?width=700\" /></p>"
+                        ],
+                        "type": 102
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    5
+                ],
+                "solution": "<p>根据题干“······2018-2021年······同比增量变化趋势”，可判定本题为增长量比较问题。定位图1可得，2017-2021年，我国木材进口额分别为96.9亿美元、97.8亿美元、83.1亿美元、74.4亿美元、78.6亿美元。根据公式：增长量=现期量-基期量，则2018-2021年我国木材进口额同比增量分别为：</p><p>2018年，97.8-96.9=0.9亿美元；</p><p>2019年，83.1-97.8=-14.7亿美元；</p><p>2020年，74.4-83.1=-8.7亿美元；</p><p>2021年，78.6-74.4=4.2亿美元。</p><p>综上可知，同比增量呈先下降后上升的趋势，且2019年同比增量最低，2021年同比增量最高，与C项变化趋势一致。</p><p>故正确答案为C。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（地市级网友回忆版）第125题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5445751,
+                "content": "<p>2021年，松木、冷杉和针叶木材进口量之和占当年我国木材进口总量的：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1673173962742,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "不到60%",
+                            "60%~65%之间",
+                            "65%~70%之间",
+                            "70%以上"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    5
+                ],
+                "solution": "<p>根据题干“2021年······占当年······的”，结合材料给出2021年相关数据，可判定本题为现期比重问题。定位图1可得：2021年，我国木材进口量为1892万吨。定位图2可得：2021年，我国松木、冷杉、针叶木材进口量分别为575万吨、432万吨、209万吨。根据公式：比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun1iBzn8WvJVACO95qTvN7M0\" />，则松木、冷杉和针叶木材进口量之和占当年我国木材进口总量的比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=Gb5W35KwIH2rikchb3hNPA\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=gvVa_5Gy4LlCE_RpO5GcjG7_89IIG-iXNkbcFVoejWs\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoi6ts6s8FXo_9PBwrFu3ITjwv_tmc7k686nJDymwy5uCQ\" />，在B项范围内。</p><p>故正确答案为B。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（地市级网友回忆版）第123题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5445747,
+                "content": "<p>2017-2021年，我国总计进口了约多少亿吨木材？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1673173933435,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1.4",
+                            "1.3",
+                            "1.2",
+                            "1.1"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    5
+                ],
+                "solution": "<p>定位图1可知2017-2021年我国每年木材进口量。故2017-2021年，我国总计进口木材量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=gRrgT1oy28uyY_3Ncszhi-6UKuTRJkcfjbcm3Pbq0sY\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AHFQ3dznWG-sqhHGxpVq9W54PQ1_SegCvf16XqED2ResXko11ntC4LQI_6SAI-Gw\" />万吨<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=GhVMUuRFBXHwknCfm9ycMA\" />亿吨，与D项最接近。</p><p>故正确答案为D。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（地市级网友回忆版）第121题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 4924292,
+                "content": "<p>下列选项中，关于养老保险基金的说法正确的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1650938629302,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "全国的基金收入在2018-2020年期间逐年增加",
+                            "4个省份基金收支的结余在2018-2020年期间逐年增加",
+                            "丙省的基金收入超出其它三省的原因是该省的缴费率高于其它三省",
+                            "2020年资料中养老保险基金收支有缺口的省份较前两年均有所增加"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    6
+                ],
+                "solution": "<p>A项：定位表格可得，2019年全国养老保险基金收入（52918亿元）＞2020年全国养老保险基金收入（44376亿元），并非逐年增加，错误；</p><p>B项：定位表格可得，甲省2019年养老保险基金收支结余=2437-2426＞0，2020年收支结余=1684-1982＜0，故2020年收支结余＜2019年收支结余，结余较上年下降，并非逐年增加，错误；</p><p>C项：材料未给出丙省的基金收入超出其它三省的原因，且未提及缴费率，故无法判断，错误；</p><p>D项：养老保险基金收支缺口指基金收入＜基金支出。定位表格可得：2018年收支有缺口的省份为0个；2019年收支有缺口的省份为丁省（收入1047亿元＜支出1084亿元），共1个；2020年收支有缺口的省份为甲省（收入1684亿元＜支出1982亿元）、乙省（收入2036亿元＜支出2982亿元）、丁省（收入1032亿元＜支出1172亿元），共3个，故2020年养老保险基金收支有缺口的省份较前两年均有所增加，正确。</p><p>故正确答案为D。</p>",
+                "source": "2022年重庆市选调优秀大学生到基层工作考试《行测》题第95题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            }
+        ]
+    },
+    {
+        "materials": [
+            {
+                "id": 341358,
+                "content": "<p>        2021年1-2月，全国房地产开发投资13986亿元，同比增长3873亿元，房屋施工面积770629万平方米，同比增长11.0%。其中，住宅542503万平方米，增长11.2%；办公楼31802万平方米，增长7.3%；商业营业用房76346万平方米，增长2.5%；其他类型119978万平方米。房屋新开工面积17037万平方米，增长64.3%，其中，住宅12736万平方米，增长68.5%。商品房销售面积17363万平方米，同比增长1.05倍，比2019年1-2月增长23.3%，商品房销售额19151亿元，同比增长1.33倍，比2019年同期增长49.6%。</p><p>        2月末，商品房待售面积比上年末增加2575万平方米，其中，住宅增加2314万平方米，办公楼和商业营业用房分别减少24万平方米和269万平方米。</p><p>        2021年1-2月，分地区看，东部地区房地产开发投资8353亿元，同比增长32.4%；中部地区2640亿元，增长52.5%；西部地区2834亿元，增长45.1%；东北地区158亿元，增长28.6%。</p><p>        东部地区商品房销售面积7565万平方米，同比增长113.9%；销售额11891亿元，增长148.1%，中部地区商品房销售面积4369万平方米，增长104.3%；销售额3280亿元，增长130.2%，西部地区商品房销售面积5094万平方米，增长95.1%；销售额3620亿元，增长103.6%，东北地区商品房销售面积425万平方米，增长82.0%；销售额359亿元，增长72.7%。</p>",
+                "accessories": []
+            },
+            {
+                "id": 312725,
+                "content": "<p>        2021年上半年，湖北省规模以上信息传输、软件和信息技术服务业（以下简称“规上信息软件业”）保持较快增长，推动全省规上服务业稳步发展。</p><p>        2021年上半年，湖北省676家规上信息软件业企业中营业收入前20的企业共实现营业收入355.46亿元，同比增长8.3%，拉动规上服务业营业收入增长1.1个百分点。</p><p><img width=\"699px\" height=\"292px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/17fb60c7c9876e5.png?width=700\" /></p><p><img width=\"694px\" height=\"387px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/17fb60c994510fb.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 340965,
+                "content": "<p>        2022年，全国居民人均可支配收入36883元，比上年增长（以下如无特别说明，均为同比名义增长）5.0%。分城乡看，城镇居民人均可支配收入49283元，增长3.9%；农村居民人均可支配收入20133元，增长6.3%。</p><p>        按收入来源分，2022年，全国居民人均工资性收入20590元，增长4.9%；人均经营性收入6175元，增长4.8%；人均财产净收入3227元，增长4.9%；人均转移净收入6892元，增长5.5%。</p><p><img width=\"638px\" height=\"342px\" src=\"https://fb.fenbike.cn/api/tarzan/images/18697c5c6db5271.png?width=700\" /></p><p>        2022年，全国居民人均消费支出24538元，比上年增长1.8%。分城乡看，城镇居民人均消费支出30391元，增长0.3%；农村居民人均消费支出16632元，增长4.5%。</p><p><img width=\"653px\" height=\"319px\" src=\"https://fb.fenbike.cn/api/tarzan/images/18697c5e399f1d6.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 323432,
+                "content": "<p>        2021年1～9月，我国机床工具进出口总额242.6亿美元，同比增长32.8%。其中，机床工具商品进口105.2亿美元，同比增长23.7%；出口137.4亿美元，同比增长40.8%。</p><p>        从进口来源来看，2021年1～9月进口来源前三位分别是：日本34.5亿美元，同比增长37.8%；德国 22.2亿美元，同比增长11.0%；中国台湾14.3亿美元，同比增长36.1%。</p><p>        从出口去向来看，2021年1～9月出口去向前三位分别是：美国17.5亿美元，同比增长27.4%；越南10.5亿美元，同比增长35.4%；印度8.8亿美元，同比增长67.8%。</p><p><img width=\"700px\" height=\"495px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/183357b7e065b38.png?width=700\" /></p><p><img width=\"700px\" height=\"560px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/181ecb7ea3c9cd5.jpg?width=700\" /></p>",
+                "accessories": []
+            }
+        ],
+        "q2subQuestionIds": null,
+        "cdnUrls": null,
+        "solutions": [
+            {
+                "id": 5521217,
+                "content": "<p>根据上文，下列说法正确的是（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677938328096,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2021年1-2月，全国房屋新开工面积同比增加超6800万平方米",
+                            "2021年2月末，商业营业用房待售面积同比减少量比办公楼多245万平方米",
+                            "2020年1-2月，房地产开发投资最低的地区，其投资额与最高的地区相差55倍",
+                            "2021年1-2月，分地区看，东北地区的商品房销售均价同比增长最小"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>A项：定位文字资料第一段可知，2021年1-2月，全国房屋新开工面积17037万平方米，增长64.3%。根据公式：增长量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh2en5Xg_67NztQITM5s530G1RHLoNoRlksnwJvn4Jt5l\" />，则2021年1-2月，全国房屋新开工面积同比增量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=hs1hA1kvNw3hlckbxYAZmlPyCRqKZkdDfefVomg_CKeU2ME9V3M70MnO5oeG_hkS\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoi2k2Nv8oDVf_JaoCCH16Kpe-uS9xIkGazf3kpPZ7TH1za17v5T16Rm4MR9k0H0-yc7GOXdZ7rnWEVBRSarMCWOCYPFbAhNxYkpdJ7sS8ZIlR\" />万平方米＜6800万平方米，错误；</p><p>B项：定位文字资料第二段可知，仅给出2021年2月末，商业营业用房和办公楼待售面积相比于2020年末的减少量，而未给出2021年2月末，商业营业用房和办公楼待售面积相比于2020年2月末的减少量，故无法推出同比减少量的差值，错误；</p><p>C项：定位文字资料第三段可知，2021年1-2月，各地区房地产开发投资额及其同比增速。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh7ggmdEaxPldU5-KOoxgtWk\" />，则2020年1-2月，各地区房地产开发投资额分别为：东部地区<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=QR4vA1dFsZzEdOqbWUM1lZfVdfK3s95ug9RYU1vmoYEsyc3TzWTEOlmj7B8xYVSn\" />亿元；中部地区<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=HJ9Fc11ouSYxbB-CB7xeMrsrc6Ez5e8rrlGVqLGgrRDPUHqzBJWZPP9K-S_V7SLJ\" />亿元；西部地区<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=IcJ3YHiqpCwNIyawTCg8uUushlXqaa8PU9O0kB_y8SiaoQVsPKfhkNXCvVFhup-L\" />亿元；东北地区<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=exMMF2W9d44DVf5g3ZGOqy_fj9wqqt0e5mI4VcCA82famlJ8PaZocVa25OjF7sDo\" />亿元，则投资最低的地区，其投资额与最高的地区相差<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=EnkSI4CXrJso6uJ_cDOKsShRMBMiMbVpaIUfDMw60-0qAdbnvNuwf2RrpOPEL7SEDH_KourNeV9_0yGXc7K0Gw\" />倍＜55倍，错误；</p><p>D项：定位文字资料第四段可知，2021年1-2月，各地区商品房销售面积及其同比增速、销售额及其同比增速。根据公式：销售均价<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=DWA-f0LdWKvAk-mHV_Vyp3zYqxUu5-VLOPY2UWCaxcshFXIbQ4sL2v8IELlvylS2\" />，平均数的增长量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=zxfa9A6xUawIJ66d3xjHxLyiFJCnm9T-p1NQogrtVC0qrbcueFMnhOai2TdWoZ-q\" />，则各地区商品房销售均价同比增量分别为：东部地区<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=NrEuNuIPv3qShcQm_iOSOZxIQEdkhKudmGzgg1ycdGSh_JVlgVk0LsZinwFtx_SZcPpsOR6bjFGi7Qw3RKPtNOmMEj_yKqe0TrD6PbpxfKE\" />；中部地区<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=42UBeGI1kBtVUPEfI4v3LksljCSKQ_Bcg4rJ46SeCexawB8GG5H6bqIG9MnAL000bLvnk_ae0FFTh5N5x_XOy633-Vc2ZXuHnWYvWLId-Ew\" />；西部地区<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=INMayVupUklx71x12qMjQz9RuUuNSG--LZPEmy-tYzXVJAhoXdNHWMzbLWO3tfITV6fi2fJPeKTB2RdZHdfgjlC8qXoInm3MLzpTWKwNiI0\" />；东北地区<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=DIRXCUcERHLghmLMiV6rJgdfGxis11VuWUkScUQLWNFqvbfZvz_M_kt4RgZTxF85LmoVXlooeOoJGDJYu0UKhg\" />。比较可知，东北地区的商品房销售均价同比增长最小，正确。</p><p>故正确答案为D。</p>",
+                "source": "2023年深圳市考公务员录用考试《行测》试题（网友回忆版）第90题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5521212,
+                "content": "<p>2021年1-2月，各地区按商品房销售额同比增量从大到小排列，正确的是（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677938238083,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "中部地区＞东部地区＞东北地区＞西部地区",
+                            "东部地区＞西部地区＞中部地区＞东北地区",
+                            "中部地区＞西部地区＞东北地区＞东部地区",
+                            "东部地区＞中部地区＞西部地区＞东北地区"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>根据题干“2021年1-2月······同比增量从大到小排列······”，可判定本题为增长量比较问题。定位文字材料第四段可得∶2021年1-2月，东部地区商品房销售额11891亿元，增长148.1%；中部地区商品房销售额3280亿元，增长130.2%；西部地区商品房销售额3620亿元，增长103.6%；东北地区商品房销售额359亿元，增长72.7%。根据增长量比较口诀“大大则大”，各地区中东部地区商品房销售额及其同比增速均为最大，则其同比增量也为最大，排除A、C两项。根据公式：增长量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh0LmKGv8wpOQUAnm9CrbNr4bWLf3waSkviNkt9nNYsV_mNrsoVQjvNsFBhodpf4R7Q\" />，可得中部地区商品房销售额同比增量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=dUh1R3Z8vqar9JvkATiTl6IQEgPpOqv0ke66kbreG7XCkzl6DEOp-_I6j7A68IrC\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=VlB8xQzADl6g-kPcUpIAt1zKPOxO-bzWKpk1lpRu4PwVovqilvi3hD-Hb4BYz8fdvtwNMp0VgzDYhfuEEHbZZVLM8_hLf503hfs-CjV19bb7qZ9w6Z2i81a9thoDnuBq\" />亿元；西部地区商品房销售额同比增量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=eFW93ewbsdeLhj9gZhx-Kd8ibbCT7sPWb1IGgmF1WjSIfW_iB9WVJUv12XbUJB2Q\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=VlB8xQzADl6g-kPcUpIAtxT3u1OyhGh6ePNU0Uj3ARtTvd8pVZ8Z2co3Oc4ajvuJNi3Nls0qruMy8bQ0eM7I9Qxe66dB6o-zAFJJ9ma8cWdWKAQkS9tDzz-w3cEmiuJ2\" />亿元，故中部地区＞西部地区，只有D项符合。 </p><p>故正确答案为D。</p>",
+                "source": "2023年深圳市考公务员录用考试《行测》试题（网友回忆版）第88题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 4808350,
+                "content": "<p>下列说法不正确的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1648024227586,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2021年上半年，北京规上服务业营业收入占全国的比例比上海多5%以内",
+                            "2020年上半年，江苏、湖北、河南、安徽、江西五省规上信息软件业企业营业收入之和比上海低",
+                            "2021年上半年湖北比河南规上信息软件业营业收入多，规上服务业营业收入少",
+                            "2020年上半年湖北省规上信息软件业企业中营业收入前20的企业总营业收入，与2021年上半年湖北省规上信息软件业中软件和信息技术服务业营业收入的差在5亿元以内"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>A项：定位统计表2可知，全国的营业收入为39271.6亿元，占规上服务业营业收入比重为29%；北京的营业收入为9751.1亿元，占规上服务业营业收入比重为41%；上海的营业收入为4678.99亿元，占规上服务业营业收入比重为23%。根据公式：整体<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun6K5bpXv4QEEOv50Rry4iHA\" />，可知全国的规上服务业营业收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=8Ne-i5I8PajmTJJlHMOavNh5a0RfiVa3n8w43sBqACp64RJ4jodLBdlwMAcXinIFfc8OC8Cvny1E-FAJ8ndVemSA95ElVynIQtg3JTHsuJo\" />亿元；北京的规上服务业营业收入比上海多<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=vP_NlwRB3sMiLo1XFcT7sbJyQgmWKlhB2QYbqkEns86eda7A9sQBHM8IbqNFg4vJ\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=B9W2ct8IcynUv2jz49kEQZisNV6LAFo03rkFrIungF0uTk-rQ1SanJmxrWc0K-rk\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ar4T7KrHaMY13k3Hcd3ohDpPH3bddzDGf3GZ3mkGTJI\" />亿元，则其占比较上海高约<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ZhyxUjSGm5Puo07On8n5PL-1aHYi8REhL2WutNAH-r6k3IvaT6Q-3RdCgXaN3qjoKejFOf-u6MO4qEHj14RvHubt2K4NQkvyo1f6XCeeX2k\" />，正确；</p><p>B项：定位统计表2可知，各省2021年上半年规上信息软件业企业营业收入及其同比增长率，根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh0LmKGv8wpOQUAnm9CrbNr52xDrFzI9N-QJpeb_zStNy\" />，可以分别得到各省2020年上半年规上信息软件业企业营业收入如下：上海<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=npWfjyqpP5jh1cpDz0pCoT94tD06gDnCcpOxqlerhZbsVAwDc6qos4N664c7aGsG-qKwBvIFdKnPvH7v9PJHkux9vuL6i2M6TAtOMGDY31A\" />亿元、江苏<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=4jzC5XwiPkahFPamgFv98n-GYpWpONOUPhxfmK6MxpSMfpvK8Y9UpjD5827ju9z2QI-LuOGUqnlL3f7wWFSR-Q\" />亿元、湖北<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=A3mKMb2qM3JY64Do5V0OmIf8HQ8q1iKs9gIOsxykzqd6DR_SZtOp9lKwCW-3AuqxI1eJQ8Q29ef2BRsTLbj5HClSKhh8foNyDCP3F4shejM\" />亿元、河南<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=otgbjjGKfe-yAp4qGeijj6OX0Oh3fm0rI2VSpBV8-WDXBCdVVV9vwWDsOfv5JEhz0LEWRFra37L8rWp9Cq2GTW-PcxoKnvvXy3GWDnjtUH0\" />亿元、安徽<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=B1ksNI2KHN6wJtRxUNO_U_5w-ODQWP79r0cDI6qmPRJeHQ9iRdSmzCXz3Jx7eXL2ejLraU1WQm0zecX3pmgv2w\" />亿元、江西<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=9jOhAP8ACcjJeYck9ShfcLj3WKPZKzEebshbkoTpKm0TpsfIjbVUFabZbSG5huSQAki2ptfoZXefx43VuJOSuFQ-3YmaqiTo_8j9FIP8XHY\" />亿元。1694+620+533+463+344=3654&gt;3599，即2020年上半年，江苏、湖北、河南、安徽、江西五省规上信息软件业企业营业收入之和高于上海，错误；</p><p>C项：定位统计表2可知，湖北2021年上半年规上信息软件业企业营业收入744.27亿元，占规上服务业营业收入比重为20.6%；河南2021年上半年规上信息软件业企业营业收入639.54亿元，占规上服务业营业收入比重为17.4%，则2021年上半年湖北比河南规上信息软件业营业收入多。根据公式：整体<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun6K5bpXv4QEEOv50Rry4iHA\" />，可知2021年上半年湖北规上服务业营业收入与河南相比<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=A3mKMb2qM3JY64Do5V0OmFhoWN48EfZ-FMEm3hZcyiIUfIaAZRXYqS1z5P9CJIULPmEIU-_93TuARjV4DkofwBrJr1T1Wjer0TlUWQoAXzI\" />，则2021年上半年湖北比河南规上服务业营业收入少，正确；</p><p>D项：定位文字资料可知，2021年上半年湖北省规上信息软件业企业中营业收入前20的企业营业收入为355.46亿元，同比增长8.3%；定位统计表1可知，2021年上半年湖北省规上信息软件业中软件和信息技术服务业营业收入为329.91亿元。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh0LmKGv8wpOQUAnm9CrbNr52xDrFzI9N-QJpeb_zStNy\" />，可知2020年上半年湖北省规上信息软件业企业中营业收入前20的企业营业收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=KXDlg3qsobyz6wq-rLSLPfhBdeptCRjDgSlhvI4azm84tBMuKrVbE7FOm7WQph9SkmEIivZjfkeYuickuNnav_TgrQlY6Ue6R4JRLoOl9sw\" />亿元，与2021年上半年湖北省规上信息软件业中软件和信息技术服务业营业收入的差在5亿元以内，正确。</p><p>本题为选非题，故正确答案为B。</p>",
+                "source": "2022年湖北省选调生招录考试综合知识和行政职业能力测验试卷（网友回忆版）第100题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 4808347,
+                "content": "<p>以下四组地区中，哪组2021年上半年规上服务业营业收入之差最小？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1648024215851,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "北京和上海",
+                            "浙江和广东",
+                            "河南和江西",
+                            "湖北和安徽"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>根据题干“······2021年上半年规上服务业营业收入······”，结合材料时间是2021年上半年，同时给出了各地区营业收入及其占规上服务业比重，可判定本题为现期比重问题。定位统计表2可知各地区2021年上半年营业收入及其占规上服务业比重，根据公式：整体<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun6K5bpXv4QEEOv50Rry4iHA\" />，可知各选项分别为：</p><p>A项，<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=vP_NlwRB3sMiLo1XFcT7sbJyQgmWKlhB2QYbqkEns86eda7A9sQBHM8IbqNFg4vJ\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=B9W2ct8IcynUv2jz49kEQZisNV6LAFo03rkFrIungF0uTk-rQ1SanJmxrWc0K-rk\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=ar4T7KrHaMY13k3Hcd3ohMInMajTNsja6mh360E7J61tcmy-dGcvpadc_Mbtt4uc\" />亿元；</p><p>B项，<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=IgMMJSy47Hep9f3_bg47W7s42ezv6ienk7jNr682f86d5SHgOeRN3C9tPiFwl7109bOHL0kBmztgJnU0tDYwyQ\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=OVEZ9pSOZ9S999ixd-AQiE1IS1f3TF9JMRtzZYUeDTIStfTyiTjIYbCRG25NQHibe51cvbmGsoO15t1nb_lMkg\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=b64tTciSvmcYTb-qwz15rATDz3wktGrPfKH6NQjm4tOvn5d7bBmr8XSTFIQD9gVE\" />亿元；</p><p>C项，<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=lMxJZgZ0X9fSZ7mYQpMOiCat9Qgvxr-XO07Wk9POSKUi0O29FXkZlL3KR1G-XCfw\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=OVEZ9pSOZ9S999ixd-AQiJ0H5J6RKjI7d91wNWh8U4yMYsi95NTLvlG6uwub2-87\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=P92jDxNtpuryPVBCS8Q8ru3_Qm2NgfH-8MQP_8ufPDnMmaQsqDFVdC5PheSAEjhO\" />亿元；</p><p>D项，<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=Jm_hMzxXpnnCYYAm001F22hJMUZnIjW6xWpVh2jJWtp82WVqVKQ3UL-jVM3cnjIV\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=Jz1QwWKfUvkYb5cYlvu5WjYJOh0NwuN1pXxWLpCHcXW2MAbZL4wK0ZUsmydO3Pw2\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=w1qhL6UfgktlH-9ubkDMO92xk2jg2fvYGZ1pRi549DdMeWqwtul6AhZLlY1NyeZG\" />亿元。</p><p>故正确答案为D。</p>",
+                "source": "2022年湖北省选调生招录考试综合知识和行政职业能力测验试卷（网友回忆版）第99题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 4808344,
+                "content": "<p>2021年上半年，湖北、河南、安徽、江西四省规上信息软件业营业收入占规上服务业比重由高到低的排名与拉动规上服务业增长由高到低的排名相同的有几个省份？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1648024204254,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>定位表格材料可得，四省规上信息软件业营业收入占规上服务业比重分别为：湖北20.6%、河南17.4%、安徽25.7%、江西23%，拉动规上服务业增长分别为：湖北4.9%、河南3.4%、安徽4.5%、江西3.7%。比重排名由高到低分别为：安徽＞江西＞湖北＞河南，拉动增长排名由高到低分别为：湖北＞安徽＞江西＞河南，排名相同的有1个省份，河南均为第四名。</p><p>故正确答案为A。</p>",
+                "source": "2022年湖北省选调生招录考试综合知识和行政职业能力测验试卷（网友回忆版）第98题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5510312,
+                "content": "<p>根据资料，下列说法正确的是（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677392729836,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2022年，全国居民人均工资性收入增长主要由农村居民贡献",
+                            "2021年，与城镇居民相比，农村居民的人均可支配收入中用于消费支出的比例更大",
+                            "与2021年相比，2022年城镇居民在居住上的消费支出增加值最大",
+                            "2021年，无论在城镇还是农村，居民消费支出的重点都是食品烟酒和交通通信支出"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>A项：材料没有给出2022年全国城镇居民、农村居民人均工资性收入同比增长的相关数据，故无法判断2022年全国居民人均工资性收入增长是否主要由农村居民贡献，错误；</p><p>B项：定位文字材料第一段，2022年城镇居民人均可支配收入49283元（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=GiXNyjd-MIyVvcUGFRQP_Q\" />），增长3.9%（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EEfLrU6CFmOtfz-IdLDLTQ\" />）；农村居民人均可支配收入20133元（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=unVETzzeIcJwwg7ca8dx6w\" />），增长6.3%（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EcrYy-ERyPsHAjuREImvLQ\" />）。定位文字材料第三段，城镇居民人均消费支出30391元（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=MDkQb2LbpJqfRZJ8Gd9Jpg\" />），增长0.3%（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=iqIPdvR55_qpzqEQ4GK-7w\" />）；农村居民人均消费支出16632元（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=tXUBSnTlbBtck-bLkSaxEA\" />），增长4.5%（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=OqgBDuMFfkJEXKHvrCVyIQ\" />）。根据公式：基期比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=SFhSsVS3J-AD_jpB2GBk8YO_MOpCyZetvvAHqB6sbZl5FuNDjxQ-gtEo4HZoRsHD\" />，则2021年城镇居民人均消费支出占人均可支配收入的比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=7B5dmjVLr9lM0Yboew-zVY2O2OdnEzLQgAVGmx7nqTpJlBnYsOxvTPFYz0ZoPXvXLVSs6mFSs1JSNvSsLzWrww\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=lBQskQ8K93oLTZXgKSqKMxW2jPqgmVXhI075Z0aQhE8BSWHfOv3yN1Ky5gjiRsUK\" />，农村居民人均消费支出占人均可支配收入的比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=qLx90ycUjIIK1SyKjWF1ZTcZVfUi2O0kYWyl-YevChYkFMvkfTLp1HaG-FlvMNJYaC4YnHHa-olAtdNQl81eRw\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=Y3tlakW96V9M-1rFltI6OOCsJGx4d0othYQnYDjKfPSb53sM1zjedbnStlCBXwUb\" />，后者更大，即2021年农村居民的人均可支配收入中用于消费支出的比例更大，正确；</p><p>C项：定位统计表，2022年城镇居民人均居住支出7644元，同比增长3.2%；食品烟酒人均支出8958元，同比增长3.2%。二者增长率相同，而食品烟酒人均支出大于居住，根据增长量比较口诀“大大则大”可知，食品烟酒人均支出同比增量大于居住，则城镇居民在居住上的消费支出增加值非最大，错误；</p><p>D项：定位统计表，2022年城镇居民人均居住支出7644元，同比增长3.2%，城镇居民交通通信人均支出3909元，同比下降0.6%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh7ggmdEaxPldU5-KOoxgtWk\" />，则2021年城镇居民人均居住支出（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=cTBaNCvPXLVBv6Kk7qE607yEpSO4jXjeD-6D7As6IVof238UKdypLhZsHdnMFcbB\" />元）大于交通通信人均支出（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=HwdGc44mXhmsz6kviq9r9tUXiuk6xi3YSOvCByzlGSdNXn7qOucUxcpBOEveJCVy\" />元），则城镇居民的消费支出的重点不是交通通信支出，错误。</p><p>故正确答案为B。</p>",
+                "source": "2023年广东省公务员录用考试《行测》题（县级卷）（网友回忆版）第95题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5510310,
+                "content": "<p>2022年，全国居民人均收支盈余比上一年（    ）。（注：收支盈余=收入-消费支出）</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677392700467,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "增加了约5%",
+                            "减少了约5%",
+                            "增加了约12%",
+                            "减少了约12%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>方法一：根据题干“2022年······比上一年”，结合选项为“增加了/减少了+百分数”，可判定本题为一般增长率问题。定位文字材料第一、三段可得：2022年，全国居民人均可支配收入36883元，比上年增长5.0%；2022年，全国居民人均消费支出24538元，比上年增长1.8%。根据 “收支盈余=收入-消费支出”，可得2022年全国居民人均收支盈余=36883-24538=12345元。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh0LmKGv8wpOQUAnm9CrbNr7VhNnzqTPoNQtYF-7ybl37\" />，可得2021年全国居民人均收支盈余<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=aT-OJXoWnFLI78wNgnllCKeVhGA25YsaAAt-Tz0-MpwjFHMaqYzJJSO_EDYAoIM_68uJBacYDMehpnf29rGf8g\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=VlB8xQzADl6g-kPcUpIAt6Jscu1vJY6hSjnZkvkB9DsCnC9CKz7AE2AEYg5elOjewODrCdOyagNphapjigI9Sg\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=hQmi48zOqHHCnHr_nXdHjEjGOPExYJUd0fyz1m2P4o0\" />元。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEzPp7dq_Ckm4TwL4gCiOZx\" />，则题干所求<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=3Pf58H7sFJfVIJapzxwR77HPfk2v2OA6PoTwg42P9vgxDzMa4fdHmN-CU_ZP4O013cikIG770us9rNl7g8g8HA\" />。</p><p>方法二：根据题干“2022年······比上一年”，结合选项为“增加了/减少了+百分数”，且收入=收支盈余+消费支出，即收支盈余与消费支出是收入的两个部分，可判定本题为混合增长率问题。根据混合增长率口诀“混合后居中”，可知<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=70lJQ6xirjtfdy6SclhsUAxhCaBdVb6Iyw9eeiS3I5bmLOtvU1xLPhju2s1rliNT\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=K4CLYG6_p8JrmnFncufsLGmS_MVch-LA4Gx6Z1q7bOk\" />，即<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=70lJQ6xirjtfdy6SclhsUH-mcTI2C15dY2hm9XnbpJQ\" />，只有C项满足。</p><p>故正确答案为C。</p>",
+                "source": "2023年广东省公务员录用考试《行测》题（县级卷）（网友回忆版）第93题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5104810,
+                "content": "<p>能够从上述资料中推出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1657529403580,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2021年1～9月，我国机床工具自日本进口同比增量是德国增量的5倍多",
+                            "2021年1～9月，进口额同比增速最高的机床工具产品类型是金属切削机床",
+                            "2021年1～9月，进出口总额超过30亿美元的机床工具产品有3种",
+                            "2020年1～9月，我国机床工具对印度出口额不到5亿美元"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>A项：定位文字材料第二段，2021年1～9月，我国机床工具从日本进口额为34.5亿美元，同比增长37.8%；从德国进口额为22.2亿美元，同比增长11.0%。根据公式：增长量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=XYYpN89rsI2axfnUmX10NCOymdlyzw4IVtw1hWH0w4AeiJPElWVm3HmO12HAjx8_iw-S4N29zFtHw0D7YNot4w\" />，可得从日本进口额同比增量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=K96B8ehD7GZHaiQjt-5Y6M0syWDSSg0D36gYKnmnrgeDSm7HGbhgm0JCdukl96mg\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=VlB8xQzADl6g-kPcUpIAt7ywI65UdMjfOXsr3tgdkdUJeIi5_SqkMgOVbtQggirNbbeQDEQAtdl1mj0etCdlIA\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=K96B8ehD7GZHaiQjt-5Y6IdR64mMOeyxWzT3HFl-T7tSmXloe7Q-zDyzd1ou9YOt\" />亿美元；从德国进口额同比增量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=yqTTknAMSvDjxQseZcOB-2-pa6emdbjnvy9bg4ItcxxtLSJnRMrXIiifBE_eh9lN\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=79iHFP4Ac9q-6Jdf-oW3Ryk33YBVhijFMFKoUb1_6aE\" />亿美元。故2021年1～9月，我国机床工具自日本进口同比增量是德国增量的<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=X4BVv4ORe3SLH-v56awBlxUWlyB_97g4-ZyyeKH2cY8\" />4.36倍＜5倍，错误；</p><p>B项：定位图1可知2020年1-9月和2021年1-9月我国机床工具产品的累计进口额。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=XYYpN89rsI2axfnUmX10NI8RYjWW26SX3VeUjMFDACx6S7EDwcrNpTExEoTc7ts4\" />，则金属切削机床同比增速<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=E1eaV9u-oQIY6crMKvlJ8huXA2KSSwZkXYdIu-fcT_0VzXOORxVlYtWgL3_JQIAHhbBZLm-hbuwvZRV7McJpHg\" />；量具、量仪同比增速<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=6pZokfiC8SeQdxrk_hFqbaHeNlKGQye5b0eHQlOqSa1J3OpvtEOe1hmS2q9-Jxae\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=yOiMXyFqdFSrDtnlIXR0V9aVRc1k6LHzNZ2pYGdE0-s\" />。故2021年1～9月，进口额同比增速最高的机床工具产品类型不是金属切削机床，错误；</p><p>C项：定位图1和图2可知2021年1-9月我国机床工具产品的累计进口额和出口额。金属切削机床进出口总额＝47.3＋26.2＝73.5亿美元；机床功能部件（含零件）进出口总额＝14.8＋12.1＝26.9亿美元；切削刀具进出口总额＝12.6＋27.6＝40.2亿美元；数控装置进出口总额＝10.4＋8.2＝18.6亿美元；金属成形机床进出口总额＝9.3＋11.7＝21亿美元；磨料磨具进出口总额＝5.7＋29.3＝35亿美元；木工机床进出口总额＝2.5＋19.7＝22.2亿美元；量具、量仪进出口总额＝1.8＋1.6＝3.4亿美元；铸造机进出口总额＝0.8＋1.0＝1.8亿美元。故2021年1～9月，进出口总额超过30亿美元的机床工具产品有金属切削机床（73.5亿美元）、切削刀具（40.2亿美元）、磨料磨具（35亿美元），共3种，正确；</p><p>D项：定位文字材料第三段，2021年1～9月，我国机床工具对印度出口额为8.8亿美元，同比增长67.8%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=XYYpN89rsI2axfnUmX10NCOymdlyzw4IVtw1hWH0w4DRuYpGBJ1q0zlLoYVrtAvO\" />，则2020年1～9月，我国机床工具对印度出口额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=5JFsFJB-T8ZWeoe0eMrnkuqXjaIc_r1bXRxXnPk4W9JU4iFLE9EFwmImqne7F7ehRinJQQm7oDTnINj3kzF6QA\" />亿美元＞5亿美元，错误。</p><p>故正确答案为C。</p>",
+                "source": "2022年天津市公务员录用考试《行测》试题（网友回忆版）第80题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5104806,
+                "content": "<p>2021年1～9月，下列产品中我国对外贸易顺差最大的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1657529387908,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "金属切削机床",
+                            "磨料磨具",
+                            "切削刀具",
+                            "机床功能部件（含零件）"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>定位统计图1可得，2021年1～9月，我国金属切削机床、磨料磨具、切削刀具以及机床功能部件（含零件）进口额分别为47.3亿美元、5.7亿美元、12.6亿美元、14.8亿美元；定位统计图2可得，2021年1～9月，我国金属切削机床、磨料磨具、切削刀具以及机床功能部件（含零件）出口额分别为26.2亿美元、29.3亿美元、27.6亿美元、12.1亿美元。则我国对外贸易实现顺差的有：磨料磨具，29.3-5.7=23.6亿美元；切削刀具，27.6-12.6=15亿美元。比较可知，2021年1～9月，我国对外贸易顺差最大的产品是磨料磨具（23.6亿美元）。</p><p>故正确答案为B。</p>",
+                "source": "2022年天津市公务员录用考试《行测》试题（网友回忆版）第79题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5104795,
+                "content": "<p>2020年1～9月，我国机床工具贸易状况为：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1657529340585,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "顺差10亿美元以上",
+                            "顺差不到10亿美元",
+                            "逆差10亿美元以上",
+                            "逆差不到10亿美元"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“2020年1～9月，我国机床工具贸易状况为”，结合材料时间为2021年1～9月，可判定本题为基期和差问题。定位文字材料第一段可得：2021年1～9月······机床工具商品进口105.2亿美元，同比增长23.7%；出口137.4亿美元，同比增长40.8%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh0LmKGv8wpOQUAnm9CrbNr52xDrFzI9N-QJpeb_zStNy\" />，则2020年1～9月我国机床工具贸易状况：出口额-进口额<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=it3PrXhzt85IZ2aN6vDgHyileGsKGaC81upDRaSL2m6aTBYzrC3w6hbAY1Unj807HXyCzcakdBnQezgmiCtTGA\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=yh6KRAnCrj-ClwJv6Pz9Hfzf04M9Dh7r5arjDxoQw0A\" />亿美元，即2020年1～9月的贸易状况为顺差10亿美元以上。</p><p>故正确答案为A。</p>",
+                "source": "2022年天津市公务员录用考试《行测》试题（网友回忆版）第76题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            }
+        ]
+    },
+    {
+        "materials": [
+            {
+                "id": 340954,
+                "content": "<p>        2020年，全国软件和信息技术服务业累计完成业务收入81658亿元，同比增长13.3%。实现利润总额10676亿元，同比增长7.8%；人均实现业务收入115.8万元，同比增长8.6%。</p><p>        分领域看，2020年，软件产品实现收入22758亿元，同比增长10.1%；其中，工业软件产品实现收入1974亿元，增长11.2%。信息技术服务实现收入49868亿元，比上年同期增加6579亿元；其中，电子商务平台技术服务收入9095亿元，同比增长10.5%；云服务、大数据服务共实现收入4116亿元，同比增长11.1%。信息安全产品和服务实现收入1540亿元，同比增长10.0%，增速较上年回落2.4个百分点。嵌入式系统软件实现收入7492亿元，比上年同期增加803亿元，增速较上年提高4.2个百分点。</p><p><img width=\"624px\" height=\"349px\" src=\"https://fb.fenbike.cn/api/tarzan/images/18688c7cea94f05.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 323435,
+                "content": "<p>        2022年1月末，我国人民币贷款余额196.65万亿元，同比增长11.5%，增速分别比上月末和上年同期低0.1个和1.2个百分点。1月份我国人民币贷款增加3.98万亿元，同比多增3944亿元。分部门看，住户贷款增加8430亿元；企（事）业单位贷款增加3.36万亿元，其中，短期贷款增加1.01万亿元，中长期贷款增加2.1万亿元，票据融资增加1788亿元。2022年1月末，我国外币贷款余额9308亿美元，同比增长2%。1月份外币贷款增加181亿美元，同比少增269亿美元。</p><p>        2022年1月末，我国人民币存款余额236.07万亿元，同比增长9.2%，增速分别比上月末和上年同期低0.1个和1.2个百分点，1月份人民币存款增加3.83万亿元，同比多增2627亿元，其中，住户存款增加5.41万亿元，非金融企业存款减少1.4万亿元，财政性存款增加5849亿元。1月末，外币存款余额1.02万亿美元，同比增长9%。1月份外币存款增加272亿美元，同比少增228亿美元。</p><p>        2022年1月份，我国银行间人民币市场以拆借、现券和回购方式合计日均成交6.31万亿元，日均成交同比增长18%。其中，同业拆借日均成交同比增长9.3%，现券日均成交同比增长22.9%，质押式回购日均成交同比增长18.2%。</p>",
+                "accessories": []
+            },
+            {
+                "id": 323376,
+                "content": "<p>        近年来，我国新能源汽车销量及保有量快速提升，充电基础设施布局也日渐完善。2021年新能源汽车销量达352.1万辆，同比增长157.51%；截至2021年，我国新能源汽车保有量达784万辆，同比增长59.25%。</p><p><img width=\"700px\" height=\"430px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/181e27f8b50fd23.png?width=700\" /></p><p><img width=\"700px\" height=\"406px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/182b04c8ac406dc.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 340956,
+                "content": "<p><img width=\"692px\" height=\"356px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/1868912ebfe86e6.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 323377,
+                "content": "<p><img width=\"700px\" height=\"443px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/182a60b869f5e73.png?width=700\" /><img width=\"700px\" height=\"140px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/182a60b97491d3e.png?width=700\" /></p>",
+                "accessories": []
+            }
+        ],
+        "q2subQuestionIds": null,
+        "cdnUrls": null,
+        "solutions": [
+            {
+                "id": 5509786,
+                "content": "<p>以下折线图反映了哪一时间段内，全国软件和信息技术服务业完成业务收入同比增量的变化趋势？</p><p><img width=\"367px\" height=\"141px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18688acc9f52d44.png?width=700\" /></p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677330283443,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2014-2017年",
+                            "2015-2018年",
+                            "2016-2019年",
+                            "2017-2020年"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>根据题干“以下折线图反映了哪一时间段内······同比增量的变化趋势”，可判定本题为增长量比较问题。定位统计图可得：2013~2020年全国软件和信息技术服务业完成业务收入分别为30587亿元、37026亿元、42848亿元、48232亿元、55103亿元、61909亿元、72072亿元、81658亿元。根据公式：增长量=现期量-基期量，则2014~2020年全国软件和信息技术服务业完成业务收入的同比增量分别为：</p><p>2014年，37026-30587=6439亿元；</p><p>2015年，42848-37026=5822亿元；</p><p>2016年，48232-42848=5384亿元；</p><p>2017年，55103-48232=6871亿元；</p><p>2018年，61909-55103=6806亿元；</p><p>2019年，72072-61909=10163亿元；</p><p>2020年，81658-72072=9586亿元。</p><p>综上可知，满足题干折线图变化趋势的为2016-2019年。</p><p>故正确答案为C。</p>",
+                "source": "2023年四川省公务员录用考试《行测》试题（网友回忆版）第90题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509781,
+                "content": "<p>2014~2020年，我国软件和信息技术服务业完成业务收入同比增速超过15%的年份有几个？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677329984274,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>根据题干“2014~2020年······同比增速······”，可判定本题为一般增长率问题。定位统计图可知2013~2020年我国软件和信息技术服务业完成业务收入额。根据公式：一般增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEzPp7dq_Ckm4TwL4gCiOZx\" />，则2014~2020年我国软件和信息技术服务业完成业务收入同比增速分别为：</p><p>2014年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=Cz8YhEI90KFAHT-uNbhcGq3YAxm9_pRdAl1gVqsFI0jChY13ImmXojQR6eIBWzQJpmWKqvehuieaEwJ979FNAg\" />；</p><p>2015年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=iEiamfSxzvtxwVtwQ_c160Ix7ShQfbLHlJIrRHKYfjSYtJcHp-h8sibfzd9uHOkNyGYnR5-g8GtsXOp_vBad0Q\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=DXsarmd0lBlrFAbewcFahlq6CN_tGSjbBJSkjjD0Uu4vlJSXlfShL8wOl-3DUo91\" />；</p><p>2016年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=TrofuMO3sb_om7D0CVhp-7saeWWba_Re0tO0tzpp7vUUudInsyxGsUos6pq5u8Yqe_JyS-M0LVfvfc_mjeJ8uA\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=DXsarmd0lBlrFAbewcFahrx8f-TYhr5CqBGRWDxViYJq3VZ69x7gjmFtWmESisjm\" />；</p><p>2017年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=K8F0PSiAJsEAY1vuMuYhJu_f8Dihxkrea5mGxpsTcVXu0We1cj5fHTo-x-l1K2U1u4BxxDysEiNb-ohH0ZaUUg\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=OVEZ9pSOZ9S999ixd-AQiBpJpozGARm_o2uXjd9BLZOGL7-BPBF5laGWmpAjvFX4\" />；</p><p>2018年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ethRJzqtvS_FJjwwSdqcC0ttRBVh4EhA0E987EONEEmWmXW9Oq3uXRyRruqxpfAxlWnBW6JjJ7BBF4rG0RVCmg\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=OVEZ9pSOZ9S999ixd-AQiKLFyPFGUlhFuYmSAvmT99qe_pCrz4eEhlO7sCSflkHg\" />；</p><p>2019年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=MujzU6B403JYEKQTBdg_Uo9LzmvcOZAmsxFjEWR7ZzarnyaLMUOUawKwgXIlLf_-gRZp7exQIR1Z-6iPaz5_KA\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoi0ITr29E8SZsVo7Qj-1J2lRakfLyvL_gKl_iLXO37rLY\" />；</p><p>2020年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=orTooXFl5ooFh5lyojoqgHyBr3c2snTk57Gt4TIAZH6Ep3jTfHYQHyu6OXibo-w-eH4sTeSSYl0ZAF-bD2doQQ\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=B9W2ct8IcynUv2jz49kEQRULP3BY4gUQc-N-nmv1y6tNzz6ig0s_c0EQupZiF0og\" />。</p><p>因此，同比增速超过15%的年份有2014年、2015年、2019年，共3个。</p><p>故正确答案为B。</p>",
+                "source": "2023年四川省公务员录用考试《行测》试题（网友回忆版）第87题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5104875,
+                "content": "<p>能够从上述资料中推出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1657529846449,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2022年1月末，我国票据融资增加额占企（事）业贷款增加额的比重不足5%",
+                            "2022年1月，我国住户存款增加额是财政性存款增加额的10倍以上",
+                            "2021年1月末，我国外币贷款增加超过500亿美元",
+                            "2021年12月末，我国人民币存款余额的同比增速比2021年1月末我国人民币存款余额的同比增速低1.1个百分点"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>A项：定位文字资料可得：2022年1月末，我国企（事）业单位贷款增加3.36万亿元，票据融资增加1788亿元。根据公式：比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun1iBzn8WvJVACO95qTvN7M0\" />，则所求为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=JhllXk7Gme6ZcdgRS7eM7YXakN95asDF8RNgdl5Jhudktt_y8qzIdlWFC_zcY6Zo\" />，错误；</p><p>B项：定位文字资料可得：2022年1月末，我国住户存款增加5.41万亿元，财政性存款增加5849亿元。则所求倍数为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=1QQkQSARSlgUaH6HzckdtzqC-2uqIKHGJL1ylE-I_EDlFuk-H27z0j4y_pSDxdGZ\" />倍，错误；</p><p>C项：定位文字资料可得：2022年1月份，我国外币贷款增加181亿美元，同比少增269亿美元。则2021年1月份，我国外币贷款增加181+269=450亿美元&lt;500亿美元，错误；</p><p>D项：定位文字资料可得：2022年1月末，我国人民币存款余额236.07万亿元，同比增长9.2%，增速分别比上月末和上年同期低0.1个和1.2个百分点。则所求为（9.2%+0.1%）-（9.2%+1.2%）=-1.1%，即低1.1个百分点，正确。</p><p>故正确答案为D。</p>",
+                "source": "2022年天津市公务员录用考试《行测》试题（网友回忆版）第90题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5102150,
+                "content": "<p>2021年北京市、上海市、广东省公共充电桩数量之和占全国公共充电桩总数的比重约为：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1657362455167,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "28.7%",
+                            "33.3%",
+                            "39.8%",
+                            "46.7%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>根据题干“2021年······占······的比重约为”，可判定本题为现期比重问题。定位图1可得：2021年我国公共充电桩数量为114.7万台；定位图2可得：2021年广东省、上海市、北京市公共充电桩数量依次为181846台、103249台、96840台。根据公式：比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun1iBzn8WvJVACO95qTvN7M0\" />，则2021年北京市、上海市、广东省公共充电桩数量之和占全国公共充电桩总数的比重为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=-R2ZvxoFS6FoRte77XwkRww8D9iGCYX8rw6oVwzA6GfLZ851llE6PW9XuxeTymNF\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=B9W2ct8IcynUv2jz49kEQQ4uDRVbOjeaHfg30C37xiwUZU-04Ma0G60w5H5Clogf\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=wi1AsMroy--ajphml9Tbjozyd_plMCSvk4Gh8P7HWlwuxFNWjKLWA_C2ouHVYRGY\" />。</p><p>故正确答案为B。</p>",
+                "source": "2022年湖北省公务员录用考试《行测》题（网友回忆版）第112题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5102148,
+                "content": "<p>2016—2021年我国公共充电桩数量年均增长量约为：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1657362444536,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "15.57万台",
+                            "17.35万台",
+                            "18.17万台",
+                            "19.94万台"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>根据题干“2016—2021年······年均增长量约”，可判定本题为年均增长量问题。定位图1可得，2016年我国公共充电桩数量为15万台，2021年我国公共充电桩数量为114.7万台，根据年均增长量公式：年均增长量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=hkhbou4qvo28Bmq5mNNaXHnKGKGZ-SeiHh2OIIOJb79Jz9jy83jblY_ON9I06het\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=YZWWxUmDtBpxT6UngwwMNFrX6vt_iAityallHpAN8kSoae_vfWioFSl7WZpj0igi\" />万台。</p><p>故正确答案为D。</p>",
+                "source": "2022年湖北省公务员录用考试《行测》题（网友回忆版）第113题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509894,
+                "content": "<p>能够从上述材料中得出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677336529575,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2021年9月，四类业务中信息技术服务收入占比最高",
+                            "2021年8月，软件业务收入是信息技术服务收入的2倍",
+                            "2021年6月，四类收入总计超过2万亿元",
+                            "2021年上半年，四类业务收入超过10万亿元"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>A项：定位表格材料可得2021年9月收入分别为：软件业务收入=69007-59710=9297亿元；软件产品收入=17951-15582=2369亿元；信息技术服务收入=43980-37951=6029亿元；嵌入式系统软件收入=5850-5142=708亿元。根据公式： 比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun1iBzn8WvJVACO95qTvN7M0\" />，整体相同，信息技术服务收入并非最高，故其占比并非最高，错误；</p><p>B项：定位表格材料可得2021年8月：软件业务收入=59710-51441=8269亿元、信息技术服务收入=37951-32744=5207亿元，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BexkJLc2jk1G9kPHOhDEVyEjNrPLDoHdXbyx0gY1wXMArDE4tfZqjipFh5KvNITEHSDIkc_OLEaxWqkW-_lNQg\" />，两者并非2倍关系，错误；</p><p>C项：定位表格材料可得2021年6月软件业各类收入：软件业务收入=44198-33893=10305亿元；软件产品收入=11451-9142=2309亿元；信息技术服务收入=28319-21314=7005亿元；嵌入式系统软件收入=3696-2921=775亿元。四类收入总计<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=YlRmnGTeCDYvbqGsej57vl-nfvA76TiYXHsGSDEF-aQgwhGVP4mBmGh6zNNIWAyH29u04S178XHQvIWBLicYCQ\" />亿元，超过2万亿元，正确；</p><p>D项：定位表格材料可得2021年上半年软件业各类收入，四类业务收入总计44198+11451+28319+3696＜45000+12000+29000+4000=90000亿元，不足10万亿元，错误。</p><p>故正确答案为C。</p>",
+                "source": "2023年辽宁省公务员录用考试《行测》题（网友回忆版）第110题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5102280,
+                "content": "<p>2012—2020年中，在职退休比最接近3的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 3,
+                "createdTime": 1657370283142,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2020年",
+                            "2019年",
+                            "2013年",
+                            "2012年"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>方法一：根据题干“2012—2020年中，在职退休比······”，可判定本题为比值计算问题。定位统计图可得2012—2020年在职职工参保人数与退休职工参保人数。根据在职退休比<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=hT0CFJ3B8YB_hrXgshQxELuYQPNtw3fJLlUtXA9DhgURcAELlwIGhK_8qZolESsEN-jsvGiYIYC1i0pnaq2eeA\" />，可得各年份在职退休比分别为：</p><p>A项，2020年<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=_ZBxcQpAp1dF6BboE-trDAsH5phRerLpWeHXKFmFxfsIdAEltNXjgckkbT24Zx0s\" />；</p><p>B项，2019年<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=xn-2Ry6cwHue4TmXM8fX9su0Ll1y9-2CDJ9TD-xpmz5kh4zmfbjG3_fNlvUN3KVd\" />；</p><p>C项，2013年<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=79YaN-B0LAnHGuLPTFr8Oy77AWWoBpYPvSD--58z0Da9STO01oCdYsFQ_vXqLSui\" />；</p><p>D项，2012年<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=Mc_BmfWZXIyrUzsOveXjM-Ld_Cm09VX5Wf-Pvm8JteXzT95VIfpuEnPW3jjrIwGu\" />。</p><p>在职退休比最接近3的是2012年。</p><p>方法二：定位统计图折线数据，观察可知2012、2013、2019、2020年在职退休比最接近3的是2012年。</p><p>故正确答案为D。</p>",
+                "source": "2022年湖北省公务员录用考试《行测》题（网友回忆版）第116题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5102175,
+                "content": "<p>能够从上述资料中推出的有：</p><p>①2017年职工医保在职退休比高于2016年</p><p>②2020年居民医保参保人数比上年略有增加</p><p>③2012—2020年间，职工医保参保人数持续增加</p><p>④2012—2020年间，居民医保基金支出增长金额最快的是2017年</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1657363336013,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>①：定位统计图可得：2017年职工医保在职退休比相较于2016年有所下降，故2017年退休比＜2016年退休比，错误；</p><p>②：材料所给数据均为职工医保参保人数，未出现居民医保参保人数相关数据，故无法推出，错误；</p><p>③：定位统计图可得：在职职工参保人数和退休职工参保人数2012年-2020年每年均在增加，故职工医保参保总人数也持续增加，正确；</p><p>④：定位统计表可得2012-2020年的数据，根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEPl3Hld7lN1fixhByma6Co\" />，</p><p>2013年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=8gN1FWJPiaD4d6RowUsp3PAWGE6RJMiueHzl9KUiixrxqTbzHJbuuFPj25Tgzgod\" />；</p><p>2014年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=hvpqenOHlXMjC_OhFxowc7tWgG9FqAdGjekGbSjQRKYFYqRhUOIBDD7v8IIjVx1h\" />；</p><p>2015年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=yI2cIZnodz3QAdtgeVe4mpVtCXg1VROKi6Y9y9CHwEZnFsq3iunvREYrbhEItWSAYWbQ8w3UdvU7GyZ7VuMASQ\" />；</p><p>2016年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=wtJmjHiFR2lZjvmMCWstVbabDXKh4h87Sri4hgDCjEQNDg3Xpo6UVhVvFzh1u2Ngot8eb88oVVSzg0qvfjh7wQ\" />；</p><p>2017年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=fomDeyuZawMLtXEXFAt-eJhLrKMc4FiME_i83tX0mOq8jjrcXjCTJuyRc_53eD_Vhnc_lSDdysWcKDGqvwIu_g\" />；</p><p>2018年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=N_PNwkg5neekYHLYShdjST39MFH3cCOzEFRUOV4VN9v81cVgnP3txOoMsBbrht1dB1YGSm7t2sPPqEk_ezE32A\" />；</p><p>2019年，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=n9-cTVsDa5Nf_IxoL15s4k8hRSZOOIFCTv0wjXSwel8e_JF06GBOtAaM4yQ6SiauhyYZ-3lhjyqwYX4hSzxixA\" />；</p><p>2020年，基金支出较上年下降，增长率&lt;0。故2017年增速最快，正确；</p><p>综上所述，只有③④正确，共2项。</p><p>故正确答案为B。</p><p>【备注】根据历年真题教研，对于④的问法，如果材料有2011年数据，需要计算2012年的增速，但如果材料没有2011年的数据，则不用计算。因此判定④正确。</p>",
+                "source": "2022年湖北省公务员录用考试《行测》题（网友回忆版）第120题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5102170,
+                "content": "<p>表中（？）处应填入的数字是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1657363300699,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "7822",
+                            "8559",
+                            "8577",
+                            "8898"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>表中“？”为2019年基金收入，结合材料给出2019年基金支出以及结余率，可判定本题为现期比重问题。定位统计表，2019年基金支出为8191亿元，结余率为4.5%。根据公式结余率<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=LEEVntyiML6nys4gSD37x-dwH8bPDn6vfnTw39ydvAw_Rd1zxKfYarS8SugDlV1bFkgN7tGr21-I4XCj6UkUGw\" />，将数据代入公式可得<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=uGb1mpt54c2uB3JXRra5NGUYzpTsp70O4ZmDP8a3o3Y7scH7OFIrld2llCNHJcp3OOjDncyDAN1P6AWrkndTFQ\" />，则基金收入<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=KU1wwd2edqreqJnibGBSDPighpUT5Bo9Dt_K7dcQ2q0\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=1g1AttQlj5h8zZRNg1JFedGHST--h-fSphBVPEAQVpk1CPDms4oL5LvCu5Pnn2UN\" />，与C项最接近。</p><p>故正确答案为C。</p>",
+                "source": "2022年湖北省公务员录用考试《行测》题（网友回忆版）第119题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5102166,
+                "content": "<p>假设2021年居民医保基金收入同比增速与2020年相同，那么，2021年居民医保基金收入约为：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1657363273492,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "9598亿元",
+                            "9689亿元",
+                            "9727亿元",
+                            "9873亿元"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>根据题干“假设2021年······同比增速与2020年相同······2021年······约为”，结合材料时间为2012-2020年，可判定本题为现期计算问题。定位统计表可得：2019年居民医保基金支出和结余率分别为8191亿元和4.5%，2020年基金收入为9115亿元。根据结余率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=LEEVntyiML6nys4gSD37x-dwH8bPDn6vfnTw39ydvAw_Rd1zxKfYarS8SugDlV1bFkgN7tGr21-I4XCj6UkUGw\" />，则有<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ygeSOx_3UOjZsTu_6rq4iEenUL4PKKeZUI0UIgf-qHHKVMh7NelO9K18wS-wl7FzvIHVBw6mRZoUOpVQX1SZ6YBIw4KI836GMJT77tZ45_jDRCewdX80Aa28JlndhCyu\" />，解得2019年居民医保基金收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=e-rlVjblh2lpaX6FsFQocj7SnsP_e_ixOz45la7RbVg\" />亿元（也可结合本篇材料第3题得出此数据）。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEPl3Hld7lN1fixhByma6Co\" />、现期量=基期量×（1+增长率）。则2021年居民医保基金收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=aKE8-O3J-m-yNB60hGlYXex8L4L4JkxtwOcdqgfObmmp9dRgFrN5T4a54PsGFps2\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=VVO49Y9Nojhj2yWjj78ped9pCnTbXUVM-HhJMrdPNscc-fY60R2-XnOHCpsR8ldw\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=23ZZVUampkWneUZziQk4N-ITn3N-nNOAA73kwGmjIWeVkauB1Qr1SqmPtMez5Fx3\" />亿元，与B项最接近。</p><p>故正确答案为B。</p>",
+                "source": "2022年内蒙古公务员录用考试《行测》题（网友回忆版）第116题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            }
+        ]
+    },
+    {
+        "materials": [
+            {
+                "id": 341356,
+                "content": "<p><img width=\"700px\" height=\"687px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/186ad2e20f2c312.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 336792,
+                "content": "<p>        2021年上半年，S市工业战略性新兴产业总产值7164.68亿元，比去年同期增长19.6%，两年平均增长12.3%。其中，新能源汽车、新能源和高端装备产值同比分别增长2.5倍、32.1%和24.5%。</p><p>        2021年上半年，全市第三产业增加值15080.35亿元，比去年同期增长11.3%。其中，信息传输、软件和信息技术服务业增加值1770.06亿元，比去年同期增加245.5亿元；批发和零售业增加值2428.92亿元，同比增长15.2%；金融业增加值3842.65亿元，比去年同期增加274.7亿元；房地产业增加值1812.18亿元，同比增长13.6%。</p><p>        2021年上半年，全市社会消费品零售总额9048.44亿元，比去年同期增加了2104.14亿元。分行业看，批发和零售业零售额8287.13亿元，同比增长28.4%；住宿和餐饮业零售额761.31亿元，同比增长54.0%。2021年上半年，全市网上商店零售额1485.72亿元，比去年同期增加259.92亿元。</p><p>        2021年上半年，全市新建商品房销售面积832.83万平方米，比去年同期增长29.2%。其中，新建商品住宅销售面积667.94万平方米，同比增长23.0%。</p>",
+                "accessories": []
+            },
+            {
+                "id": 341192,
+                "content": "<p><img width=\"655px\" height=\"281px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/1869768d6a7dc03.png?width=700\" /></p><p><img width=\"662px\" height=\"595px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/1869768eddc0655.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 340963,
+                "content": "<p>        2012~2021的10年间，辽宁、天津、河北、山东、江苏、上海、浙江、福建、广东、广西、海南11个沿海省市的核电、火电、钢铁、石化等行业的海水冷却用水量稳步增长（图1），其中浙江、福建、广东3省海水冷却用水量相对较高（表1）。截至2021年底，11个沿海省市共建有海水冷却工程22个，2021年全国11个沿海省市海水冷却工程年总循环量为169.5亿吨。</p><p><img width=\"688px\" height=\"376px\" src=\"https://fb.fenbike.cn/api/tarzan/images/1868b6deb170812.png?width=700\" /></p><p><img width=\"688px\" height=\"262px\" src=\"https://fb.fenbike.cn/api/tarzan/images/1868b65aaadf744.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 335236,
+                "content": "<p><img width=\"692px\" height=\"593px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/184b87b25f5e921.png?width=700\" /></p>",
+                "accessories": []
+            }
+        ],
+        "q2subQuestionIds": null,
+        "cdnUrls": null,
+        "solutions": [
+            {
+                "id": 5521205,
+                "content": "<p>根据上表，下列说法错误的是（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677938191871,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2020-2021年，大型底栖生物多样性指数连续两年同比下降的重点监测区域有2个",
+                            "2019-2021年，黄河口与长江口大型底栖生物多样性指数的差距逐年增大",
+                            "2019-2022年，杭州湾大型底栖生物物种数、密度、多样性指数均居末位",
+                            "2021年，大型底栖生物密度同比增加的重点监测区域有8个"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>A项：定位统计表可得，2020-2021年，大型底栖生物多样性指数连续两年同比下降（即2021年＜2020年＜2019年）的重点监测区域有：大亚湾（1.84＜2.12＜2.51）、北部湾（2.04＜2.6＜2.78），共2个，正确；</p><p>B项：定位统计表可得，2019-2021年黄河口大型底栖生物多样性指数分别为3.14、3.01、3.38；长江口大型底栖生物多样性指数分别为1.86、1.41、1.58。则两者2019年的差距为3.14-1.86=1.28，2020年的差距为3.01-1.41=1.6，2021的差距为3.38-1.58=1.8，差距逐年增大，正确；</p><p>C项：材料中没有给出2022年杭州湾大型底栖生物情况的相关数据，故无法推出，错误；</p><p>D项：定位统计表可得，2020年、2021年中国海洋各个生态重点监测区域大型底栖生物密度。观察可知，2021年大型底栖生物密度同比增加（即2021年＞2020年）的重点监测区域有：鸭绿江口（515＞217.4）、双台子河口（95.6＞48.9）、滦河口—北戴河（122.6＞70.5）、长江口（82.4＞80.7）、珠江口（82.9＞51.7）、渤海湾（122.5＞54.4）、闽东沿岸（90.7＞90.3）、苏北浅滩（7.2＞4.3），共8个，正确。</p><p>本题为选非题，故正确答案为C。</p>",
+                "source": "2023年深圳市考公务员录用考试《行测》试题（网友回忆版）第100题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5521202,
+                "content": "<p>2019年，大型底栖生物物种数达到中位数以上的重点监测区域中，其大型底栖生物密度最低的是（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677938178104,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "北部湾",
+                            "闽东沿岸",
+                            "渤海湾",
+                            "闽江口"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>定位统计表可知，2019年中国海洋生态重点监测区域共14个，各监测区域大型底栖生物物种数按从小到大排列，第7、8位分别为闽江口44种、渤海湾52种，则中位数为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=-5CtjEA7bOQVgkONL17wdz9ioMxr20bpp9K92c2evYM\" />，闽江口物种数低于中位数，排除D项。北部湾、闽东沿岸、渤海湾大型底栖生物密度分别为115.8<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BAUwjjGjFPztfXa_fPBskg\" />、83.6<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BAUwjjGjFPztfXa_fPBskg\" />、118.6<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BAUwjjGjFPztfXa_fPBskg\" />，最低的是闽东沿岸。</p><p>故正确答案为B。</p><p>备注：中位数是指按顺序排列的一组数据中居于中间位置的数，若数据有偶数个，通常取最中间的两个数值的平均数作为中位数。</p>",
+                "source": "2023年深圳市考公务员录用考试《行测》试题（网友回忆版）第99题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5430278,
+                "content": "<p>2021年上半年，S市批发和零售业零售额同比增量约是住宿和餐饮业的多少倍？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1671428363345,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "3",
+                            "5",
+                            "7",
+                            "9"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>根据题干“2021年上半年······约是······的多少倍”，可判定本题为现期倍数问题。定位文字材料第三段可得：2021年上半年，批发和零售业零售额8287.13亿元，同比增长28.4%；住宿和餐饮业零售额761.31亿元，同比增长54.0%。根据公式：增长量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh3jRmawOklQk5NBbCSXsVO8\" />，可得2021年上半年，批发和零售业零售额的同比增长量为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=mjtA2QMcueeBb-9p2BxFu4je6UPQFzv4yXGbTvVQJ2_w121lvZza7VGnDjZ0bmNU\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=igpsH0nKtThekKopSlfciui1cFlJ-zRa3PmcDZQANobLR6T98WZrDwkQHPL6gRsv5Dj60u0-Nrldq0J14fqVkQ\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=-iydBAeDSHF75Q6UD3vEOa-zzyLlqNwj4mxamlf1umD7CD3Ca7oui_qFD6gvqNpD\" />亿元，住宿和餐饮业零售额的同比增长量为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=fLYMqOHDnMNDV83sIu7rdlbAWeu0JwIMPDsQsCo9W58h-vsB3gtNvLrVZp-yiem0\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=Jz1QwWKfUvkYb5cYlvu5WmGoeWNsVBUXapkZDg94WbpbvJfL_v_E8qFhtXWB5ohvPZ4in7H838nVuuid21sCfQ\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=z2k3CIhLabeCcPFD81QKzlTM9D9YZQ6uI_xm-af3uv7iR2BNraNljvisN70FU6ft\" />亿元，则所求倍数为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=7oBjk2JAD4_ViUvyIPh8378Tc4KciKMx1LPvQ6uuROU\" />倍。</p><p>故正确答案为C。</p>",
+                "source": "2023年浙江省公务员录用考试《行测》题（C类）（网友回忆版）第8题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5430273,
+                "content": "<p>2020年上半年，S市工业战略性新兴产业总产值同比增长在以下哪个范围内？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1671428322986,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "不到7%",
+                            "7~10%",
+                            "10~13%",
+                            "超过13%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>根据题干“2020年上半年······总产值同比增长······”，结合选项带百分号，且材料给出2021年S市工业战略性新兴产业总产值的上半年增速和两年平均增速，可判定本题为间隔增长率问题。定位文字材料第一段可得：2021年上半年，S市工业战略性新兴产业总产值比去年同期增长19.6%，两年平均增长12.3%。根据年均增长率公式：<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=_S63vUhlkUULNRIFs8fusEYfRTTdS_I1mMPRBgcY_jKMPwUCXNRX56W12XA9jRQc\" />，且<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=kgGHSlEJMCETnx7BJdGXlRWJZ3FpCJ55F0jcOh6HXNcksvx2Sw5SJiqu8VTZj2Xp\" />，可得<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=BbkQ7UMcD4z5koSPMc-qfz-JQmwaQJvcw2NQlUkolfBAGhL4Hctakh787AWkxdSa\" />，故<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=wnRkoa8X6fznCtOJcQBb4_InObeguaqMdmtDVZ9erzE\" />。根据间隔增长率公式：<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=YXa5C6QBVeAuDpsutjc-P5QyXyXSkXpDP92zFPmpb1M\" />，代入数据可得：<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=1tGRnoT1NHQTqA3n59RkUbW03_-Wnb39lswK7nzMimS4Ld1nWi2oOu3ZqFYAkXYu\" />，解得<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=UoFzYrKqVPtm7ppYf3n5crQ8_ZibDqzhlRX4VOHpPkc\" />，故2020年上半年，S市工业战略性新兴产业总产值同比约增长5.4%，在A项范围内。</p><p>故正确答案为A。</p>",
+                "source": "2023年浙江省公务员录用考试《行测》题（C类）（网友回忆版）第6题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5514933,
+                "content": "<p>2021年广东林业产值同比增长率（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677577279195,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "小于5%",
+                            "在5%-10%之间",
+                            "在10%-15%之间",
+                            "大于15%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>根据题干“2021年广东林业产值同比增长率”，可判定本题为一般增长率问题。定位图1可得：2020、2021年广东农林牧渔业总产值分别为7901.9亿元、8305.8亿元。定位图2可得：2020、2021年广东林业产值占比分别为5.2%、6.0%。根据公式：部分=整体×比重，可知2020年广东林业产值<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=anzJ4RrnqRIFu9qe4V_X8_SQt2Y2JcMOQnYeQFJI33iMUZeHsRblSLlwhQuJIjCU\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=H9yqN7SJ7DVct75CuxmlvQ\" />亿元，2021年广东林业产值<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=nubfipuIg51IzF9p9RZzh2ky7mjygZPflWHfuVDYvDMdAx557RgrDRP4n7wtgIFq\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=B_BRe1zrOGA4YVWJiXZ6vA\" />亿元。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEPl3Hld7lN1fixhByma6Co\" />，则所求<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=J5BtBXu1hOARngogQcbBay19zjn5YLOg1HnhS3F4eck\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AyZgild1vUJAnZi4IW6Qlb0_ndrrCOzUTfEZt2dqM3U\" />，在D项范围内。</p><p>故正确答案为D。</p>",
+                "source": "2023年广东省公务员录用考试《行测》题（乡镇卷）（网友回忆版）第89题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5510165,
+                "content": "<p>可以从上述资料推出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677351067031,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2021年全国11个沿海省份海水冷却用水量前4名依次为：广东、浙江、福建、江苏",
+                            "2012~2021年浙江、广东年海水冷却用水量之和均超过全国同期的60%",
+                            "2012~2021年表1的8个省市中福建的海水冷却用水量年平均增速最快",
+                            "2012~2021年间，广东的海水冷却用水量均为辽宁同期的3倍以上"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>A项：定位表1，2021年辽宁、河北等8省海水冷却用水量前4名依次为：广东（571.3亿吨）、浙江（338.7亿吨）、福建（264.3亿吨）、山东（145.1亿吨），江苏省在此表中排名为第5，故一定无法排到全国11个沿海省份海水冷却用水量的前4名，错误；</p><p>B项：定位图1可知2012～2021年全国11个沿海省市的海水冷却用水量，定位表1可知2012～2021年浙江、广东年海水冷却用水量。2012年浙江、广东年海水冷却用水量之和占全国11个沿海省市的海水冷却用水量的比重为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=dAGxjZ5j5_cHLePLaThogYICXyyy5pbfH6pQJgdjuys\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=36OGhPeOsbkmNPzKyAjzTVhoXFbGRTJtrWI6HbKApgojStd7GnUijf7x8trWZWqi\" />，并非均超过全国同期的60%，错误；</p><p>C项：定位表1可知2012年、2021年辽宁、河北等8省海水冷却用水量。根据年均增长率公式：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=_S63vUhlkUULNRIFs8fusEYfRTTdS_I1mMPRBgcY_jJpVLaD__24HKIjssCdwIEE\" />（n为年份差），当年份差相同时，直接比较<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=kgGHSlEJMCETnx7BJdGXlWFx8vxIQjyIDMfH81nC6G0\" />即可。表1的8个省份<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=kgGHSlEJMCETnx7BJdGXlWFx8vxIQjyIDMfH81nC6G0\" />分别为：辽宁，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ypYqR02Q2qQvFf-jHf73d69WHi3JMeZHICGk4VysZr0\" />；河北，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=_NGivbVc_YgD7RZ-g6SKU0TuYjMB0sDKwGiwjIiKnt90oGZNtvOcTAkqWcx0LWYb\" />；山东，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=1DiWaA0fBgxzkMgUdLRF16KnUPCspmqHd0LUwIHe5tP_S3fFDMEZVIMd8-WGcBS5\" />；江苏，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=XdSuxOpIP2Fu0Xru5aRP5DAtsjlkygK7MvPTNkGCKhu_03GjujqoulFa5lBKZCmz\" />；浙江，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=zXKNjMtLHy-GwoWR8amWGbuOysZPwjYM_UXgwQhE79J8mqpCfNYGFzChnxvikDrX\" />；福建，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=JIFJgdU6rAkBxYlt8fu9SHo7D9_8ApKgRqr9Qjh5A0Ls-7XRpj0wcW6ORdnnEmIG\" />；广东，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=QxA5XoA4wtlgAbX5VcAE1dkyBVEhgGiYPaN1N_Ou_5wRUMBF6JZKGQuFy72BCu9t\" />；广西，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=aJzpx6xmg4IKdEf5dtSAF-UdVvN1NA5DgTd_AKpSWq0\" />，比较可知8个省份中福建的海水冷却用水量年平均增速最快，正确；</p><p>D项：定位表1可知2012～2021年间，广东、辽宁的海水冷却用水量。2014年广东的海水冷却用水量为辽宁同期的<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=UuI5cYV4O583JG0xEpk0YbXiVYzHvri1XmFy517MeRF1_mYcXqtzuWWEmS_ioHUM\" />倍<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=gJnZlvsYvO2Ph47DnEoW2Q\" />倍，并非均为3倍以上，错误。</p><p>故正确答案为C。</p>",
+                "source": "2023年陕西省公务员录用考试《行测》题（网友回忆版）第110题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5510164,
+                "content": "<p>2021年海水冷却用水量低于海水冷却工程年总循环量的沿海省市共有几个：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677351053271,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "5个",
+                            "6个",
+                            "7个",
+                            "8个"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>定位文字材料可得，2021年全国11个沿海省市海水冷却工程年总循环量为169.5亿吨。结合表格比较可得，8个沿海省中，海水冷却用水量低于海水冷却工程年总循环量的省份共有5个，分别为辽宁（49.0亿吨）、河北（54.6亿吨）、山东（145.1亿吨）、江苏（117.5亿吨）、广西（70.6亿吨）。</p><p>除表中8省外，剩余3个沿海省市海水冷却用水量之和<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=WqeDjp3S6uVysoXRU9kuuCgzmwi2QQ-SDO9pgTwq_kn6u-HS4JiSfJeSDC_aUjmrMH1ddNcFgbPIN3f8uKa4SA\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=XXK0DfG19NHA35-_7iBoa5FZRXshlS3DEGJnPGt5d7c\" />亿吨。因3个省市的海水冷却用水量之和（163.1亿吨）低于海水冷却工程年总循环量（169.5亿吨），则每个省市的海水冷却用水量均应低于海水冷却工程年总循环量。</p><p>故满足要求的沿海省市共5+3=8个。</p><p>故正确答案为D。</p>",
+                "source": "2023年陕西省公务员录用考试《行测》题（网友回忆版）第109题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5510163,
+                "content": "<p>表1中，2021年除浙江、福建、广东外的5个沿海省市海水冷却用水量占全国11个沿海省市的：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677351040453,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "24.6%",
+                            "33.8%",
+                            "47.6%",
+                            "66.2%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“表1中，2021年······占······的”，结合选项为百分数，可判定本题为现期比重问题。定位图1可得：2021年全国11个沿海省市的海水冷却用水量为1775.1亿吨；定位表1可得：2021年除浙江、福建、广东外的5个沿海省市海水冷却用水量分别为49.0亿吨、54.6亿吨、145.1亿吨、117.5亿吨、70.6亿吨。根据公式：比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun2EGN1pSWFH0nEZO5D2kE_w\" />，题目所求<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=U0QwNOjUT3sTjK_Uldc2oDRo6hhKDNOI-6uA98BCos_s8IyF2sqEC9mbdUnSIpoc\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=TKGrwzS6ZgeBY1WggUtGgbV39YUsTb12U21qFxr2hhUIGkVb-l8R14IDmY5LDaD7\" />，与A项最接近。</p><p>故正确答案为A。</p>",
+                "source": "2023年陕西省公务员录用考试《行测》题（网友回忆版）第108题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5408644,
+                "content": "<p>关于我国邮政行业发展状况，能够从上述资料中推出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1669541653878,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2018年3月，快递业务收入高于500亿元",
+                            "2019年3月，快递业务量高于同年1~2月平均水平",
+                            "2019年一季度，平均每件邮政寄递服务产生的收入高于2元",
+                            "2019年一季度，函件、包裹和汇兑的业务量之和占邮政寄递服务业务量的20%以上"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>A项：定位统计表可得：2019年3月，快递业务收入为596.0亿元，同比增速为23.0%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh0LmKGv8wpOQUAnm9CrbNr52xDrFzI9N-QJpeb_zStNy\" />，可得2018年3月快递业务收入为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=t9XCIhLIHCYztZd37o3I4b_nlDUr1bOnKR2nPnZhjsCe-Hz4vGuWI_sNTRutSJDJT6sLzygDshXvOIG_dUCnnw\" />亿元，错误；</p><p>B项：定位统计表可得：2019年一季度，快递业务量为1214633.0万件；2019年3月，快递业务量为486392.8万件。则2019年1~2月，快递业务量平均水平为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=xHMGREAAuXjiZNu2eK8F9Zxxa0LXuO2C5ZrBct6LTU8acy_jeBe_9pXDn7NjjmjAk-IgrUirtB-hgd1RPfOAAA\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=i1LCgRDHVesERGX6RsuS7g\" />万件&lt;486392.8万件，故2019年3月，快递业务量高于同年1~2月平均水平，正确；</p><p>C项：定位统计表可得：2019年一季度，邮政寄递服务收入为110.4亿元，邮政寄递服务业务量为601950.3万件。平均每件邮政寄递服务产生的收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=2EDn7CV98XpvAeOzh_gtNSvuIoFWTGSr-SjE4kOp89n-CrrOjfdId3Zwd8_EK12KNVXBguRoZDeMf7MD5GrvSsj28oQ9-xQPUzwKDyOTGO4\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=TT4kMQha737YaUiCFxCmS0Lj2lq-ndRZ-30NwyFLc1GrO5XqP9Do_Go6KemRHFtu\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoi6iduoS5lKg4xWDESz6EIcq8By74Hp1PyiUBnY0jCc6D\" />元/件，错误；</p><p>D项：定位统计表可得2019年一季度，函件、包裹和汇兑的业务量以及邮政寄递服务业务量。根据公式：比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun1iBzn8WvJVACO95qTvN7M0\" />，可得<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ws4ZaTmOfG1AuLkHN7c0_ylhmbwjZ849tb9anrNTtf45qGvPQdHPw7zxbVQX8yt5bFPNoHGcQu0aKjRNqZFwCTuTNIpGYJFxatVWTCpej6U\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=9nrVi88AHSJoAjw7eUsxAKSuq_ykmkC5I-Z2-dYD27nbjVP9jjFeEqjiJ7xVIx0J\" />，故2019年一季度，函件、包裹和汇兑的业务量之和不到邮政寄递服务业务量的20%，错误。</p><p>故正确答案为B。</p><p>（备注：表格中邮政寄递服务量单位为万件/万份/万笔，C项所求为平均每件邮政寄递服务产生的收入，此处应为出题人统一用每件指代各类不同单位总数）</p>",
+                "source": "2022年四川下半年公务员录用考试《行测》试题（网友回忆版）第90题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5408626,
+                "content": "<p>2018年1~2月，我国邮政寄递服务的收入约为多少亿元？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1669541580108,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "44",
+                            "65",
+                            "82",
+                            "103"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>根据题干“2018年1~2月······收入约为多少亿元”，结合材料时间为2019年一季度和2019年3月，可判定本题为基期和差问题。定位统计表可得：2019年一季度，我国邮政寄递服务110.4亿元，同比增速为7.4%；2019年3月，我国邮政寄递服务37.1亿元，同比增速为-1.6%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh96NwHh3k7naTMvx9NcyT6s\" />，可得2018年1~2月我国邮政寄递服务的收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=h-gQMHrpVailGuJt3eks83CbrPd7n1PHHZXg29gFb5ipBdZ9Pt4iS7cROxGKCvWscVwdWVfF-7fwQSVBwN9MMQ\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoi29UW1YDNo9RSEzchTB8MgvlImmdEFOGLU4C3IDO1_Y-\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=wcP6duIFIc9VMsgu4NbSCfqUcFO5hmE7EO634DJHvOU\" />亿元，与B项最接近。</p><p>故正确答案为B。</p>",
+                "source": "2022年四川下半年公务员录用考试《行测》试题（网友回忆版）第87题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            }
+        ]
+    },
+    {
+        "materials": [
+            {
+                "id": 338026,
+                "content": "<p><img width=\"700px\" height=\"494px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/1859130ca6fac22.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 335859,
+                "content": "<p>        2022年2月，“东数西算”工程正式全面启动。云计算在“东数西算”产业链中游占据重要位置。2020年上半年和2021年上半年，中国整体云服务市场规模分别为1171亿元和1620亿元，其三个细分领域市场IaaS（基础设施即服务）、PaaS（平台即服务）和SaaS（软件即服务）的规模如下表1。</p><p><img width=\"700px\" height=\"134px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/1850527ef1f9ba7.png?width=700\" /></p><p>        在中国整体云服务市场中，2020年上半年和2021年上半年，公有云市场规模分别为830亿元和1235亿元。在公有云市场份额方面，阿里云、华为云、腾讯云位列2021年上半年中国IaaS公有云市场和中国IaaS+PaaS公有云市场前三名，具体占比如下表2。</p><p><img width=\"700px\" height=\"172px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/185052a03ccbcfa.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 323375,
+                "content": "<p>        2020年末，全国共有艺术表演团体17581个，从业人员43.69万人，其中各级文化和旅游部门所属艺术表演团体2060个，从业人员10.75万人。2020年，全国文化和旅游部门所属艺术表演团体共组织政府采购公益演出13.38万场，比上年下降14.9%；观众0.86亿人次，下降27.9%。</p><p><img width=\"568px\" height=\"332px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/181e340d9493eba.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 340951,
+                "content": "<p><img width=\"700px\" height=\"399px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18688707527fcd1.jpg?width=700\" /></p><p><img width=\"700px\" height=\"479px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/186886dd1b8b52b.jpg?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 340945,
+                "content": "<p><img width=\"700px\" height=\"396px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18687f4c6045ad9.png?width=700\" /></p><p><img width=\"700px\" height=\"350px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/1868803309ba403.png?width=700\" /></p><p><img width=\"700px\" height=\"388px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18687f515098e92.png?width=700\" /></p><p><img width=\"700px\" height=\"413px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18687f53d0d2eca.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 186996,
+                "content": "<p>        我国2015年全年全社会固定资产投资562000亿元，固定资产投资（不含农户）551590亿元，增长<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=p-h1gSbLKVeusPUMwhhh1g\" />。从各区域看，东部地区投资232107亿元，比上年增长<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=otwfvrsU9xqNHqF2cS_Njw\" />；中部地区投资143118亿元，增长<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=pMJEX_4xG-95RiS0EXTMpQ\" />；西部地区投资140416亿元，增长<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=do7B8ZccghaZsyJtyYwy3w\" />；东北地区投资40806亿元，下降<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AwXCXt23JbkBOvPES5uaUA\" />。</p><p><img width=\"556px\" height=\"286px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/15b9ac088b08fc2.png?width=700\" /></p><p><img width=\"481px\" height=\"288px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/15b9ac0c374b970.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 186994,
+                "content": "<p>        江西省2015年财政总收入3021.5亿元，比上年增长<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AZEofm4E_LA15i2CIDEI-g\" />，财政总收入占生产总值的比重为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EwwNSRwwu8ShmcmzUhVSQA\" />，比上年提高1.0个百分点。其中，税收收入2373.0亿元，增长<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=p1gd1s2kCrv9adnOs0F4Uw\" />，占财政总收入比重为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=p3xOntonCCT_NYwNYM_9KQ\" />，其他收入648.5亿元。所有县（市、区）财政总收入突破6亿元，其中，财政总收入超10亿元的县（市、区）85个，比上年增加8个；超20亿元的36个，增加7个；超30亿元的17个，增加2个；超50亿元的5个，增加2个；百亿县实现零突破，南昌县财政总收入达100.9亿元。</p><p><img width=\"492px\" height=\"299px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/15e044616dbf707.jpg?width=700\" /></p>",
+                "accessories": []
+            }
+        ],
+        "q2subQuestionIds": null,
+        "cdnUrls": null,
+        "solutions": [
+            {
+                "id": 5445766,
+                "content": "<p>如单纯从统计数据判断，则2021年四季度B市在提升中心城市道路交通守法率方面，工作相比三季度最有成效的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1673174064697,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "机动车依法礼让",
+                            "行人、非机动车遵守交通信号灯",
+                            "摩托车驾乘人员佩戴安全头盔",
+                            "汽车前排驾乘人员使用安全带"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>定位表格材料可得2021年三季度、四季度B市在选项四个方面的城市道路交通守法率，具体情况为：</p><p><img width=\"531px\" height=\"277px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/1859107353864ec.png?width=700\" /></p><p>对比可得，B市2021年三季度的机动车依法礼让率最低（96.0%），而四季度最高（98.8%），差值最大，即工作相比三季度最有成效。</p><p>故正确答案为A。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（地市级网友回忆版）第114题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5423864,
+                "content": "<p>在2021年上半年PaaS公有云市场中，相对于腾讯云的市场份额，阿里云的市场份额<u>                    </u>。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1670825821604,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "更小",
+                            "持平",
+                            "更大",
+                            "资料不足，无法判断"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>根据题干“在2021年上半年PaaS公有云市场中······腾讯云······阿里云的市场份额”，而市场份额又称市场占有率（即比重），可判定本题为现期比重问题。定位统计表2可得：在2021年上半年，IaaS公有云市场中，阿里云、腾讯云的市场份额分别为38.7%、12.4%；IaaS+PaaS公有云市场中，阿里云、腾讯云的市场份额分别为37.4%、12.4%。</p><p>方法一：根据公式：部分=整体×比重，可得2021年上半年，阿里云PaaS公有云市场规模=IaaS+PaaS公有云市场规模×37.4%-IaaS公有云市场规模×38.7%，由于材料并未给出2021年上半年IaaS+PaaS公有云市场规模、IaaS公有云市场规模，因此无法推出阿里云PaaS公有云市场规模；同理，腾讯云的对应市场规模亦无法推出，故无法判断腾讯云和阿里云市场份额的大小关系。</p><p>方法二：由于IaaS+PaaS公有云市场规模=IaaS公有云市场规模＋PaaS公有云市场规模，则运营商的IaaS+PaaS公有云市场份额（比重）为混合比重，根据混合比重口诀“混合居中但不正中”，可得PaaS公有云市场中，阿里云占比&lt;37.4%，腾讯云占比=12.4%。但材料并未给出2021年上半年IaaS+PaaS、IaaS公有云市场规模的相关数据，因此无法进一步判断阿里云占比与腾讯云占比（12.4%）的大小关系。</p><p>故正确答案为D。</p><p>备注：材料中表2的运营商的公有云市场份额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=KgbMjemOrazXmxyNYijjpQ7yheUIyYDfomglLvvv9X41g5hHdfkCyuXaekjzstqSRqQMCQiQTAocuoKMbkCZD7Bvm4071V-_UjjLszY4WxxPVfsGklcKQtl2UXVPBQJyIuuL5mkhhg6fkdWLjXfJ3w\" />，此比重的部分和整体都是“公有云市场规模”的相关数据，根据实际统计规则和文字材料第二段“在公有云市场份额方面，阿里云、华为云、腾讯云位列······具体占比如下表2”，都可以证实。</p><p>但有某观点认为“阿里云IaaS公有云市场份额（38.7%）<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=GKfr6YsoT6VTvm7XPtaBX9iWI6XGN6Nb4gMY7JNlD4I2erD0UpAc-jl8nkhA9oY9t6aBlZQxNlCwELpZbMxZ0owzG8wGYH7Ov4batmrEOFw\" />，阿里云IaaS+PaaS公有云市场份额（37.4%）<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=GKfr6YsoT6VTvm7XPtaBX5Lz5G9vxsNFOvnu2VB91QllePedgW0zALkCqN3laFmf9xAtwseJA7Trxiu1iqmX_TeXCtEen4fR5IU_DBEUQpMNHBU64EYpQPnW4zvGWSdF\" />，从而计算阿里云PaaS公有云市场规模=1620×（59.4%+17.7%）×37.4%-1620×59.4%×38.7%；腾讯云PaaS公有云市场规模=1620×（59.4%+17.7%）×12.4%-1620×59.4%×12.4%，进而判断阿里云市场份额&gt;腾讯云市场份额，选C。”小粉笔认为这种理解是偏颇的，故小粉笔倾向于本题正确答案为D。</p>",
+                "source": "2023年上海市公务员录用考试《行测》题（A类）（网友回忆版）第52题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5102156,
+                "content": "<p>以下折线图中，能准确反映2011~2020年国内演出观众人次变化的是：</p><p><img width=\"656px\" height=\"140px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/181e63213bb1fe9.jpg?width=700\" /></p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 3,
+                "createdTime": 1657362493907,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "A",
+                            "B",
+                            "C",
+                            "D"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>定位表格材料可得：2011年、2012年、2013年、2014年、2015年、2016年、2017年、2018年、2019年、2020年国内演出观众人次分别为：7.46亿人次、8.28亿人次、9.01亿人次、9.10亿人次、9.58亿人次、11.81亿人次、12.47亿人次、11.76亿人次、12.30亿人次、8.93亿人次，人次变化趋势为开始缓慢升高，排除B、D两项；最后下降，排除A项。</p><p>故正确答案为C。</p>",
+                "source": "2022年湖北省公务员录用考试《行测》题（网友回忆版）第124题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509652,
+                "content": "<p>下列不能从上述资料中推出的是（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677322218371,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2022年下半年，每月的体育彩票销售额均大于福利彩票销售额",
+                            "2022年，基诺型和视频型彩票销售额占彩票销售额的比重较上一年低",
+                            "2022年，竞猜型彩票的月销售额高于年内月平均销售额的月份只有2个",
+                            "2022年，全国彩票销售总额同比增加500亿元以上"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>A项：定位表格可知：2022年7月-12月每月体育彩票中乐透数字型、竞猜型、即开型、视频型彩票的销售额，福利彩票中乐透数字型、即开型、基诺型彩票销售额。可得：</p><p>7月：体育彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=yrsCATQBiuOgZofgZsPm0fr54l2AbeVdQEJ7L9xRpmC9xgNRBHRgc8UmbciqRKfg\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=rULG2Bc02xeTope2RyyY8gnLAxtkT3fdP_L91NlK2zElZUixKLanMo-vPHMH4Khl\" />百万元，福利彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=h6-yxgb3eXWjwzfAHeuYqL1WazbQfHhB8hmMNhP0uCc\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=o_jsSaUFak8A_dITvKn5-zE6dA5sN84QLPgCG2U5V0jSb0PJYTkPZ5PGUR6fBH8J\" />百万元，体育彩票销售额&gt;福利彩票销售额；</p><p>8月：体育彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=XEVBvUbz9SQF-AxSj9wYEedu7LuY_uy0-ZQq8l8N8YVpZzR98PYtW_SwWimbTRJZ\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=RETjcW48AY4vz24Ldv6tiXUn20iKDWNxhQ8eNTH34wajicGKROci1nCkOHf6c0Kx\" />百万元，福利彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=eFjX-9-epSs16dHDNMlkT38LGnYBM2Z90nszdutyBGE\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=-AcyAJponTUxYGpKggU_cR3ZIcAi6eMipxQq50cuKWeWxrw__oCDa3PI-fgC-guC\" />百万元，体育彩票销售额&gt;福利彩票销售额；</p><p>9月：体育彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=NvTVUdXtsDb2Mf2qWgLzPvIEC9wverggXwMA7451IqsHPaN6yhemnNP3zcASXdoM\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=64tJ3SbD9Gf66ob0ue2XpEw3RiPPseoPHRrtuIdVI-J1Kmr5WaE3e6VmA4jdkTuT\" />百万元，福利彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=BQ5K41MYRZHbQ7oZ6a9Gh9yOCa0krXOGvZOd_kL0U6A\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=5F8JaiToJkjN7DznJ6z8YvC7qIo15nIQIigxncbe8okCHIm7YRUS8PyKyORRWDYJ\" />百万元，体育彩票销售额&gt;福利彩票销售额；</p><p>10月：体育彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=AOasBFFnABv9SjKZ6qL0CP-WeY4VYkKjfOBqHsF_fWlFmQLXfn8PkZPeLyUMb5zT\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=hx51p6c6xtc-xObyLSGEc-1HKbAW7XvTv7f2koYrKSUnUcKSf9vPT6YBQ4gAkPuc\" />百万元，福利彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=AjIWXW9yxbX6AP3YCAY6uhnXeg9aaorGwYCYb818tT0\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=o_jsSaUFak8A_dITvKn5-w5uV7SkmRZHOXRBcJfem3xdbeAZZ17SMZF3bCp8VwDW\" />百万元，体育彩票销售额&gt;福利彩票销售额；</p><p>11月：体育彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=WRdsBT3MqieV0vE2_NJEldNnCREGaxHeElBq5HYip4js-XTyZUf-U-bKb6Z6tg2N\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=1rKIpomt9vhtjgZHfasCkaHyzCcXJlsqGzRxquUPj0SsI-sbLL1ec0arnAz4AJrq\" />百万元，福利彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=jQAUBLDzaWzUBS9fq6ULIBGIxAQCixZMxULCyPiTYnU\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=mvVpPuiGEF9bUkfdVdzN2qK3vU3vpXSNAU1oKZpYDln_Nq0NoV4kRyLHTquYWGfa\" />百万元，体育彩票销售额&gt;福利彩票销售额；</p><p>12月：体育彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=MsuCjzjruRPayfKIvVzDAbpt8pkymMn9Uaw1Mq8UKCyhp_qDaBG5xizMUIvViL6p\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=bGpdA4NS4dj-YJw9laed2czpYsakrV03V3iHDycD6kOMYgaDR45wsoOCqlE1MBLW\" />百万元，福利彩票销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=ijnCWOutVtxt9sDyeFHjNYWUIQ2DdEHBt21tCNYLLZs\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=5F8JaiToJkjN7DznJ6z8YsJdrPoKxr-8m1efKerCLhK059vzy8xIdfC8YKP0din6\" />百万元，体育彩票销售额&gt;福利彩票销售额。所以2022年下半年，每月的体育彩票销售额均大于福利彩票销售额，正确；</p><p>B项：定位统计图可知：2021年、2022年乐透数字型、竞猜型、即开型、基诺型和视频型各类型彩票销售额。根据公式：比重<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun2EGN1pSWFH0nEZO5D2kE_w\" />，可得2021年基诺型和视频型彩票销售额占彩票销售额的比重<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=R0zdf4Tdktg5fduiN4NB__vLAiicTtyQ9sX3b9Ep0n07ZU8zxONtJw9Nf3uN-q5A\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1w8zkPojU2OHbM6lLy7U-ZuayrDLESuBcH_9_0y-6FZAI\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=R0zdf4Tdktg5fduiN4NB_7cDYDv1BljElBqVe4211mKX-qB0lumGnEK0wh0EO-5t\" />，2022年基诺型和视频型彩票销售额占彩票销售额的比重<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=H4gY6nXFVfEUEp7rn_xMFgf7a9_THD7k_KT-r-RDXFkKSUP2atOP2VBCd1oaOrHr\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1w6yPkGtBAcOU_beegYsrKzST1s4FBpxS-RkC9Ko68FT7\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=H4gY6nXFVfEUEp7rn_xMFkoVlFdTRuHcDAAOOO46VI0LT29szyX2HpqQx8iCYVcI\" />，6.8%&gt;6.1%，即比重较上一年有所上升，错误；</p><p>C项：定位统计图可知：2022年竞猜型彩票销售额为1809.3亿元。所以2022年内竞猜型彩票月平均销售额<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=-bZAprk6BIvcDzNxU-MZQ1_mo_25Gr8BgUhpKkfHAUAR54r6qFI2QF7T3_AYaaPh\" />亿元=15100百万元。定位表格可知：2022年1-12月各月竞猜型彩票销售额，其中月销售额高于年内月平均销售额的月份只有11月（31081.42百万元）、12月（42994.68百万元），共2个，正确；</p><p>D项：定位统计图可知：2021年、2022年乐透数字型、竞猜型、即开型、基诺型和视频型各类型彩票销售额。所以2021年全国彩票销售总额=1618.9+1343.2+543.9+226.9=3732.9亿元，2022年全国彩票销售总额=1554.2+1809.3+594.5+288.6=4246.6亿元，题干所求=4246.6-3732.9=513.7亿元&gt;500亿元，正确。</p><p>本题为选非题，故正确答案为B。</p>",
+                "source": "2023年吉林省公务员录用考试《行测》题（网友回忆版）第95题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509651,
+                "content": "<p>下列折线图中，能准确反映2022年第四季度竞猜型彩票月销售额的环比增长率变化趋势的是（    ）。</p><p><img width=\"500px\" height=\"306px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18688966e647bbb.jpg?width=700\" /></p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677322200118,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "A",
+                            "B",
+                            "C",
+                            "D"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“······2022年第四季度······环比增长率变化趋势······”，可判定本题为一般增长率问题。定位表格可得：2022年竞猜型彩票9-12月销售额分别为12891.92百万元、11341.84百万元、31081.42百万元、42994.68百万元。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEzPp7dq_Ckm4TwL4gCiOZx\" />，则2022年第四季度竞猜型彩票月销售额的环比增长率分别为：10月，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=KkPSKL3jNrKEYkn_s44PbSvH4TWlXxSZNozj-mVw35nj4gUB0vntDZ3cpGIcc1GU\" />；11月，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=k1MQmjRysfk8ZAggv1foDFvxNL24rm_WbSQS5pxHnoPTmXlcN1JT0rjjuOLckPYQ\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoi38PCDxD210_pJAYCacngKCE8_5b-m2EZmHmBmrjqVnv\" />；12月，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=m_FrjwV0hU4oXvKygihi6CnvzWTAYQPRJRb-3F2lJ7CZk-V-XC9_fzESoCgpaXS8\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=c4-UiLRj_li-q3spMHtoixRZ4GiQ-xahutvQB2NXAETQ5zBuUhcON9qZRwrtLAPo\" />。只有C项符合。</p><p>故正确答案为C。</p>",
+                "source": "2023年吉林省公务员录用考试《行测》题（网友回忆版）第94题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509650,
+                "content": "<p>下面饼图反映了2022年某月乐透数字型、竞猜型、即开型、基诺型和视频型彩票销售额的比重关系，此饼图对应的月份为（    ）。</p><p><img width=\"400px\" height=\"315px\" src=\"https://fb.fenbike.cn/api/tarzan/images/186886bd921a92d.jpg?width=700\" /></p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677322145569,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1月",
+                            "8月",
+                            "11月",
+                            "12月"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“下面饼图反映了2022年某月······比重关系······”，可判定本题为现期比重问题。定位表格材料可知1月、8月、11月、12月各类型彩票的销售数据。根据公式：比重<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun2Y2xYQDgSCN8Mh5w0j67MU\" />，</p><p>则2022年1月基诺型和视频型彩票销售额的比重为<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=m9NsXdKDeKqo4JMS33mELL7ZrAWZ5TbIsx0x8d5Dt7iCAYxMoOFewBwHDg-YKDwcykpTjVnZtLmthxSzZP2-_gaONhHtS8AoGklcHXF2E9I\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1w0PlxRUfj4EPmGOHSv0c-2ttWm-9sv2VtzQDuy0NokWEK3Q40q28DTUDjcDcZnlJlQ\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1w4zTrhvvuPUA0CeCv-PaWqt-vLQxEIgESLKc-LPjcBlR\" />；</p><p>8月基诺型和视频型彩票销售额的比重为<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=HyuosWP94hbwtpsvwDzsZFAgMpA8vsvGSvbOlEGdQftXv_w-sNMGjFsgfvbmQ2A7w1MWeWi8q0qi7K6ezTZwmyDoIiHgZlcorfhmCjPOO_4\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1w8GppidhNA9zMsJ_DNj8Lw7To0T5Otj4WhTITKIPdgrt7OIZ37WUCMQBBystumfQDQ\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1w89UUPEV8T84hFev04mNNMkHyAy1_PcMtakcPzULy8qV\" />；</p><p>11月基诺型和视频型彩票销售额的比重为<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=TskKpnYfesxA-kiIt2s21qakJ_3TrscCLAD-kuO8i-0YmMGoZVnI1HSoIkq0lZPBGXWhmtfZBgQCOOxRBgM2bHexSWydTGqCDIWu9D4LyMw\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1w5c7nOp_JntgnKJy-VL2MPLSE9vELyf_iS9aKzHKzQq-iR2XMp9uOBn7e5HKBSotPQ\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1w28kvGRntJV95mJdH28zT87uMsDxHgJ804eD_px9i85s\" />；</p><p>12月基诺型和视频型彩票销售额的比重为<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=EabrhGWd-r_tGwFJUswSPL6AiFDZ2TFIo-yf2eA_jK5uR7p8Gatg3kEozRGXldBMBEqjIj8p2fJFVTKrL-NiyZByKDE91Z4Hp98MtVVPj4o\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1wwwX214D-xZ97Q6Ujitjj7JjnCNL7m6G9Vg5Vq205MQqSsGzACQNQ-1c4Agu6-ydYA\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=FV2X76P6ujJIBvEuUGo1wzMjJXdzL8XyRTAeAvoupETk6D5mUJ17hOJKsf1kHcfm\" />。观察计算结果可知，1月基诺型和视频型彩票销售额的比重（6.7%）最接近题干所给比重（6%）。</p><p>故正确答案为A。</p>",
+                "source": "2023年吉林省公务员录用考试《行测》题（网友回忆版）第93题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509647,
+                "content": "<p>2022年，乐透数字型彩票月销售额最大的月份出现在（    ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677322082968,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "第一季度",
+                            "第二季度",
+                            "第三季度",
+                            "第四季度"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>定位表格材料可得：乐透数字型彩票销售额分为体彩和福彩两类。故本题需要比较其体彩+福彩销售额最大的月份是哪个。根据表格，二月明显小，排除。体彩类的其他月份乐透数字型销售额保留到百位分别在5300-6200之间，最大差距为900；而福彩类乐透数字型销售额保留到百位在6600-8700之间。为简化运算，福彩类只需考虑7800-8700之间月份即可（7800以下无论多大，加体彩类都不能比8700所对应月份的总销售额大），故只需要粗略比较3月，5月，11月，12月。其中：3月约为5900+8300=14200；5月约为6200+7800=14000；11月约为5700+8700=14400，明显大于前两者，而11月、12月均属于第四季度，无需比较。</p><p>故正确答案为D。</p>",
+                "source": "2023年吉林省公务员录用考试《行测》题（网友回忆版）第91题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509538,
+                "content": "<p>比较2018年-2021年我国母婴商品消费额与居民人均可支配收入的年增长率，下列说法错误的有几项？</p><p>①母婴商品消费额的年增长率均超过居民人均可支配收入的年增长率</p><p>②母婴商品消费额的年增长率均低于居民人均可支配收入的年增长率</p><p>③母婴商品消费额的年增长率与居民人均可支配收入的年增长率大体一致</p><p>④母婴商品消费额的年增长率与居民人均可支配收入的年增长率趋势相反</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677312991213,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>根据图1可知，2018年母婴商品消费额的年增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=NK6u5RcCO3gt2ZYcTopPOW_I_dp465117lFCqYGm6OuoHDyPBW6MMmin3p47Lr5m\" />，2019年母婴商品消费额的年增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=CStuT_wCiekNOc7iq7TyxIlnq8Ex7x_j84rKxtxSXTkgxKzRj4sgcvFevywKsv2Y\" />，2020年母婴商品消费额的年增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=pGb96gFMvIOh5cRru1XEIEZBH36qb8o8s-E4Yp7mJ7PN7QH32tvgM5uNM_U69kRp\" />，2021年母婴商品消费额的年增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=vVPlhGImnutx5lAxNzBHqXTDuVnJ7wWiU9zXyru8qlRMYMlcn-z2acOuevE8Fhd6\" />；根据图3可知，2018年居民人均可支配收入的年增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=lQFQ62lXcMAjwSs_-I4oCXpoBHoYiXtHWx64OCKymbrXse44VfoT1sOBmLK0RukX\" />，2019年居民人均可支配收入的年增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=3Rjxo8UQk-gfeO1k3HWlosyCCYXK0gOH6Rojdcdb559OM_d8ypPdEBg5q-s3hiZH\" />，2020年居民人均可支配收入的年增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=Y6wCAqjmsZGk7BKovMON-NVwZiYwkseBrKQxduQ6svA34XMryKNyTgeNuH4q6e5U\" />，2021年居民人均可支配收入的年增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=8Kqz5ZtkedSa34ZkUc5Gd9CCF8BWmp6pc9a4qWej8m3BAPE58IfB1bZercLkOzLE\" />。</p><p>①2020年母婴商品消费额的年增长率低于居民人均可支配收入的年增长率，错误；</p><p>②2018年、2019年、2021年母婴商品消费额的年增长率均高于居民人均可支配收入的年增长率，错误；</p><p>③2018年母婴商品消费额的年增长率和居民人均可支配收入的年增长率分别为12.6%和8.7%，不符合大体一致，错误；</p><p>④2018-2021年母婴商品消费额的年增长率分别为12.6%、12.5%、4.4%、10.8%，居民人均可支配收入的年增长率分别为8.7%、8.9%、4.7%、9.1%，其中2019-2021年趋势均为先降后升，并非题干所说趋势相反，错误。</p><p>因此①②③④说法均错误，</p><p>故正确答案为D。</p>",
+                "source": "2023年青海省公务员录用考试《行测》题（网友回忆版）第120题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 2051008,
+                "content": "<p>2015年，东部地区投资占全社会固定资产投资的比重比西部地区投资高（  ）</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1492949087399,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "20.35个百分点",
+                            "19.43个百分点",
+                            "16.62个百分点",
+                            "16.32个百分点"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    5
+                ],
+                "solution": "<p>根据“2015年······的比重比<span style=\"color:#rgb(89,89,89)\">······</span>高”，结合选项都是百分点，可知本题为现期比重问题。定位文字材料，“2015年，全年全社会固定资产投资562000亿元，东部地区投资232107亿元，西部地区投资140416亿元”，则比重差为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=tszuX_EX7obc-mUBAOLJUfT2uuJ7qNuASvOr5dLetOoQJ2rz3br0YaQ9XEE-Gh2p_66ZDutJPAsrKNfMlBixR5c7XhZVgX1Ss8KyAnoFezcQlinFnqynK1uYttEQxX5IL37BuCbf92q221r37L7OHs-nvuioBXUJSw_XPoWGzk4\" />，与D项最接近。</p><p>故正确答案为D。</p>",
+                "source": "2017年422联考《行测》题（江西卷）第135题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 2050992,
+                "content": "<p>2015年江西省财政总收入中的其他收入比上年（  ）。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1492948988332,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "<p>减少了<img flag=\"tex\" src=\"//fb.fbstatic.cn/api/planet/accessories/formulas?latex=7c46RO070xD8bkmfh2DY7Q\" /></p>",
+                            "<p>减少了<img flag=\"tex\" src=\"//fb.fbstatic.cn/api/planet/accessories/formulas?latex=MLUClvOg0jKifA9FK1UGAA\" /></p>",
+                            "<p>增加了<img flag=\"tex\" src=\"//fb.fenbike.cn/api/planet/accessories/formulas?latex=7c46RO070xD8bkmfh2DY7Q\" /></p>",
+                            "<p>增加了<img flag=\"tex\" src=\"//fb.fenbike.cn/api/planet/accessories/formulas?latex=MLUClvOg0jKifA9FK1UGAA\" /></p>"
+                        ],
+                        "type": 102
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    6
+                ],
+                "solution": "<p>题干求“2015年江西省财政总收入中的其他收入比上年”，选项为百分数，可判定本题为增长率问题。根据题意，财政总收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=rj6W22mVYNX_YbwkMquVUw\" />税收收入<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BtzJZPM8PjZ_5w9M2YJSYQ\" />其他收入，已知财政总收入增长率为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AZEofm4E_LA15i2CIDEI-g\" />，税收收入增长率为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=p1gd1s2kCrv9adnOs0F4Uw\" />，可判定此题为混合增长率问题。</p><p>因为税收增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=p1gd1s2kCrv9adnOs0F4Uw\" />小于整体增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AZEofm4E_LA15i2CIDEI-g\" />，根据混合增长率居中原则，其他收入增长率应大于整体增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AZEofm4E_LA15i2CIDEI-g\" />，只有D项的增长率大于<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AZEofm4E_LA15i2CIDEI-g\" />。</p><p>故正确答案为D。</p>",
+                "source": "2017年422联考《行测》题（江西卷）第122题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            }
+        ]
+    },
+    {
+        "materials": [
+            {
+                "id": 186992,
+                "content": "<p>        2015年，江西规模以上工业增加值7268.9亿元，比上年增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=vAa22Chxzx4HRMEqyuGnQg\" />。分轻重工业看，轻工业增加值2731.2亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=JnEiA391AQlcyKU3WIE1oA\" />；重工业4537.7亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=IHoNLGLDuWhnaikI5tLvug\" />。分经济类型看，国有企业增加值269.1亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=w5xTXf4mjm5-1uBsI0rqZg\" />；集体企业19.3亿元，下降<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=bi1bluv0omQTQZfiuDcExA\" />；股份合作企业22.3亿元，下降<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=DbM0K5RY3AMsuugTO6LhFA\" />；股份制企业2847.6亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=BLpNNubPXaFR9rw-jmvGzw\" />；私营企业2992.2亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=6zjUqCRYgW5_g4khXnxVzw\" />；外商及港澳台商投资企业1112.5亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=qqetfPKFv-yZgdRMW3cLAA\" />。</p><p>        2015年江西省规模以上工业38个行业大类中34个突破增长，占比近九成。其中，电子、电子机械、纺织、农副产品、医药和有色等六大重点行业表现突出，分别增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=zPWgucZ140ZV9ViXSNlccA\" />、<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=8nwVZeuCjg3XzSio2lBYbQ\" />、<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=8nwVZeuCjg3XzSio2lBYbQ\" />、<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=ciomarP3JHBKYfR9kRXFAw\" />、<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=BRnbetH7DrhyY_MOFnlg4A\" />、<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=QOD_JaS8YIH-S3pVRDu_9g\" />，合计实现增加值2707.0亿元，占规模以上工业的比重为<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=CIdi9qL3lOCvgJLPDIxzjA\" />，对规模以上工业增长的贡献率达<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=K1omN0mVqULzNU5h_1yLWw\" />。高新技术产业增加值1869.7亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=BRnbetH7DrhyY_MOFnlg4A\" />，占规模以上工业的比重为<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=h6l1T4w2IhRsp7dbnAn_jQ\" />，比上年提高0.8个百分点。抚州、赣州、吉安高新区晋升为国家级高新技术开发区，年末国家级高新技术开发区7家，居全国第六、中部第一；省级高新技术产业园区3家，比上年新增1家；国家高新技术产业化基地27个，居全国第一。</p><p>        2015年江西省规模以上工业企业实现主营业务收入32459.4亿元，比上年增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=PjEwSWc57LGihf_ZBZ0WCA\" />；实现利税总额3543.8亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=g58uEo4P5pdYhFP3N02TZA\" />，其中，利润总额2128.0亿元，增长<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=ehAF_X6d76NABod3BseGlA\" />。主营业务收入超百亿元的企业10户，其中，江铜集团2010.4亿元，居全省首位。</p>",
+                "accessories": []
+            },
+            {
+                "id": 186990,
+                "content": "<p>        2015年全年我国粮食产量62144万吨，比上年增加1441万吨，增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=ehAF_X6d76NABod3BseGlA\" />。其中，夏粮产量14112万吨，增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=tI622Up_gQpCKMjCsya7tw\" />；旱稻产量3369万吨，减产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=DS1zUuhhQ5aFiZtnYfgWWw\" />；秋粮产量44662万吨，增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=K5ybHRh7LdrPKE-dGx6nZw\" />。全年谷物产量57225万吨，比上年增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=TsJOkfMpjwURnua9rjPHjg\" />。其中，稻谷产量20825万吨，增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=E6ocyfosz4o9WQ21UCKZVg\" />；小麦产量13019万吨，增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=YupEuxQkjiZvHJAF0odtSw\" />；玉米产量22458万吨，增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=OSw2_Cx0H4xHz6LpEvWE8Q\" />。</p><p><img width=\"572px\" height=\"388px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/15b9ae12fbd8fee.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 341194,
+                "content": "<p>        2022年，全国居民人均可支配收入36883元，比上年增长（以下如无特别说明，均为同比名义增长）5.0%。分城乡看，城镇居民人均可支配收入49283元，增长3.9%；农村居民人均可支配收入20133元，增长6.3%。</p><p>        2022年，全国居民人均消费支出24538元，比上年增长1.8%。分城乡看，城镇居民人均消费支出30391元，增长0.3%；农村居民人均消费支出16632元，增长4.5%。</p><p><img width=\"664px\" height=\"424px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/1869790c95480fb.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 340960,
+                "content": "<p>        2021年，全国城市供水总量673.34亿立方米，同比增长6.96%；城市供水管道长度105.99万公里，同比增长5.26%；人均日生活用水量185.03升；供水普及率99.38%，比上年增加0.39个百分点。天津、河北、上海、江苏、浙江和广东6个省（市）城市供水普及率达到100%；福建、山东、湖北、广西、安徽、辽宁、宁夏、新疆、内蒙古、山西、甘肃、河南、黑龙江、江西、云南和湖南16个省（区）超过99%（含）；西藏、青海、北京、四川、贵州和陕西6个省（区、市）超过98%；重庆、吉林、海南3个省（市）和新疆建设兵团超过95%。</p><p><img width=\"700px\" height=\"675px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18689b707250545.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 340944,
+                "content": "<p>        2022年1~7月，全国规模以上工业发电4.77万亿千瓦时，同比增长1.4%，增速比上半年加快0.7个百分点。7月份，全国发电量8059亿千瓦时，同比增长4.5%，增速比上月加快3.0个百分点。分品种看，7月份火电由降转增，同比增长5.3%；由于来水偏枯，水电同比增长2.4%，增速比上月放缓26.6个百分点；风电同比增长5.7%，增速比上月放缓11.0个百分点；核电同比下降3.3%，降幅比上月收窄5.7个百分点；太阳能发电同比增长13.0%，增速比上月加快3.1个百分点。</p><p>        2022年1~7月，全社会用电量累计49303亿千瓦时，同比增长3.4%。分产业看，第一产业用电量634亿千瓦时，同比增长11.1%；第二产业用电量32552亿千瓦时，同比增长1.1%；第三产业用电量8531亿千瓦时，同比增长4.6%；城乡居民生活用电量7586亿千瓦时，同比增长12.5%。7月份，全社会用电量8324亿千瓦时，同比增长6.3%。分产业看，第一产业用电量121亿千瓦时，同比增长14.3%；第二产业用电量5132亿千瓦时，同比下降0.1%；第三产业用电量1591亿千瓦时，同比增长11.5%；城乡居民生活用电量1480亿千瓦时，同比增长26.8%。</p>",
+                "accessories": []
+            }
+        ],
+        "q2subQuestionIds": null,
+        "cdnUrls": null,
+        "solutions": [
+            {
+                "id": 2050980,
+                "content": "<p>2015年江西省规模以上工业38个行业大类中增长超过<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=8lHCgOBfm9m7Uj4N_Y2Pwg\" />的行业有：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 6,
+                "createdTime": 1492948828305,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "6个",
+                            "7个",
+                            "8个",
+                            "无法计算"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>由题干“2015年江西省规模以上工业38个行业大类增长”定位材料第二段，“2015年江西省规模以上工业38个行业大类中34个突破增长，占比近九成。其中，电子、电子机械、纺织、农副产品、医药和有色等六大重点行业表现突出，分别增长<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=zPWgucZ140ZV9ViXSNlccA\" />、<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=8nwVZeuCjg3XzSio2lBYbQ\" />、<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=8nwVZeuCjg3XzSio2lBYbQ\" />、<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ciomarP3JHBKYfR9kRXFAw\" />、<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BRnbetH7DrhyY_MOFnlg4A\" />、<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=QOD_JaS8YIH-S3pVRDu_9g\" />”，材料中只给出6个大类的增长率，其余30多个大类未知，无法判断。</p><p>故正确答案为D。</p>",
+                "source": "2017年422联考《行测》题（江西卷）第119题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 2050970,
+                "content": "<p>2015年我国稻谷产量占谷物产量的比重为：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1492948798579,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "<p><img flag=\"tex\" src=\"//fb.fbstatic.cn/api/planet/accessories/formulas?latex=O7aAUCz25cqESRmgunDgLw\" /></p>",
+                            "<p><img flag=\"tex\" src=\"//fb.fbstatic.cn/api/planet/accessories/formulas?latex=y1lB76KoMMZSjpgWltDc0A\" /></p>",
+                            "<p><img flag=\"tex\" src=\"//fb.fbstatic.cn/api/planet/accessories/formulas?latex=Btb1_QuEVkKyz3bT7mSydQ\" /></p>",
+                            "<p><img flag=\"tex\" src=\"//fb.fbstatic.cn/api/planet/accessories/formulas?latex=aGXPeq1M_x1D0W13eeELKw\" /></p>"
+                        ],
+                        "type": 102
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>由题干“2015年······的比重为”，可判定该题为现期比重问题。定位文字材料，“2015年谷物产量57225万吨，稻谷产量20825万吨”，可得2015年我国稻谷产量占谷物产量的<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=2o3mY2_hhvRrFwi7rOv_geOQIVAhNHA5KK5mCSr89uPlyl8kSZJgeDBEa2hMutuGxsgLsWu98T48ytIxIw2GlkeCnD2xxTK3sph_856M_KU\" />。</p><p>故正确答案为A。</p>",
+                "source": "2017年422联考《行测》题（江西卷）第129题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 2050966,
+                "content": "<p>2015年江西省规模以上工业企业的营业利润率与上年同期相比（  ）</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1492948735165,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "有所上升",
+                            "有所下降",
+                            "持平",
+                            "无法判断"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>营业利润率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BfY7g1CWaGsnb3pC_URVaJpS3Q-Ag5urnqkWfJd_jRNi7Vr0fNRnk6ss9SoSLDmg\" />，由题干“2015年江西省规模以上工业企业的营业利润率与上年同期相比”，结合选项，可知本题为两期比重的比较问题，仅需比较增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=mRKL_orzOudCEARA8qn3Kw\" />与<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=PGyKeLDo0qv9T0n29ldi6w\" />的大小关系即可。根据“利润总额”“主营业务收入”定位材料第三段，定位数据：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ee1O7QlsX44NgWws9hohwnJTNojCrHHASSwRFn-DDq8Y5m7xKOF6JWiK7Sj4J8R4\" />，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=jFRb00qPBobfn4vMgY5CWrg5AHxCWeVmkFLAJGE97uH5qsyFTEJ7go2nE3Ej4UIf\" />，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=L3MyS2EKvUxqrHWptAXzRw\" />，即2015年江西省规模以上工业企业的营业利润率低于上年同期。</p><p>故正确答案为B。</p>",
+                "source": "2017年422联考《行测》题（江西卷）第116题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 2050950,
+                "content": "<p>2014年，我国玉米产量比小麦产量多：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1492948679987,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "8642万吨",
+                            "8958万吨",
+                            "9429万吨",
+                            "9915万吨"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>由题干“2014年，我国玉米产量比小麦产量多”，结合文字材料2015年的产量与增长率均给出，可判定该题是基期和差问题。定位文字材料，“2015年小麦产量13019万吨，增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=YupEuxQkjiZvHJAF0odtSw\" />；玉米产量22458万吨，增产<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=OSw2_Cx0H4xHz6LpEvWE8Q\" />”，根据基期量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh96NwHh3k7naTMvx9NcyT6s\" />，可得2014年小麦产量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=apacN1J8HHubLGWyRcWsE5jFjGqxqBxzYgctBcLndBLt3Fsravb5jMYm56zp6fq1OtR5excNCJAnsGN_bBBRsA\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=_MxYpKRcMB4_bClIoQS4I2k6rC_PQ9s4eKUKOr2HkDY\" />万吨；2014年玉米产量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=8dYk6OPy4GqE5tK3Ui3eAWLhLXmFetPKvezdXZrbTG7POSxYQeW1wXPrAXlbDZIf93r4Bxqe1hrwvrrKU0EVDg\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=JUmJ42IHLC7hVscsBtSR2qIVbzMNAihkyGMYxbwUjV0\" />万吨。2014年，我国玉米产量比小麦产量多<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=Osl9rsrSNBgQvEqcBv5HElnyzPWLrgcmuB6vQxGc0sU\" />万吨。与B项最接近。</p><p>故正确答案为B。</p>",
+                "source": "2017年422联考《行测》题（江西卷）第127题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5514960,
+                "content": "<p>2022年，表中所呈现的农村居民消费支出的类别中，同比增加超过120元的有（    ）项。</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677577546934,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>根据题干“······同比增加超过120元······”，可判定本题为增长量比较问题。定位统计表可得2022年农村居民各类别的消费支出和同比增速。根据公式：增长量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh0LmKGv8wpOQUAnm9CrbNr6e0prbuf0mN23u7giAPSFM\" />，可得食品烟酒同比增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=bweKC7PcZhjCQ6i12Smbqv0eNWhlixvhulOCy05el29loDiRlEJWuUy9MBna3GHirBx4hPd9fh7uUEBHoC72J4eObhbct4TTXknTu9xoWmaDGX8j8F9sf4JnsceU0LHcOGV3uWSUBI0d6Q3kz3Ujhw\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=zPMj-cqQHoxfTZa5O-5avw\" />元；衣着同比增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BitkUWM92gtMC76J3qSGXp_AcGBcPAblm0KGL6e-9ws\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=BitkUWM92gtMC76J3qSGXgY_aETP-BlGnWXs4BLub-arROu149BeLaQcuv1mFGVTcg69IPQrIht6RRAYRaa0pP9uh0ecVaJw95t5WR48A4c\" />元；居住同比增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=D6v7Qqu5LG_71IVK74xDNG0G-EFPvk3ZWbw4bVn5uGBbenwMCmhQqZjxawOmiKa2LzIzVrDBN6COnu6XAZNy6JwC0fJqImA8wxA6sikOdy02ZTB4IQeignG4DD9ftzVIhSMfA9A-OD7wTCK3P9tiog\" />元；生活用品及服务同比增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=nQhHA2nvsdmbQFv60eqDmlTLVTtfa7JxWJ2KlaD5p3s7m055wgy1B8M2kynLYzoqaYp4eYZK71jho-mTsLe8YTrq1GaUGXuKpWy99AOiKyn18twZqblUC7Odm4LKC9NmELT42SI0GfEMOHrUkVWlTw\" />元；交通通信同比增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=fZNG7BePKz2QE-VN2Bw_qtGfc9q3zb5jWwwN_qrpHr4azQIKnKL_qY0rGU9BjEORqZxOR1exrhlOinJkgglYLAr8sjdcfIuJZHvibfMNtlpine2TI0SA0yH8gWc7WQPW74aim-acTZaAU6QwOL_DfQ\" />元；教育文化娱乐同比增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=Equ0HkFMTJui1J04wDNcE2x1Z9kXYtSjWnSOk1Z4JUZRM57X3zBqDMHWrEZjF264DObPY5-gxbgBh-RwvD58OeGcQW0klFsvjIw4GbmqySuANS9mqRObBs2o_fna7X-KOM_aiXXyNDJfQfkorwKiwA\" />元；医疗保健同比增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=iGvs4JWTWMOOHNM8ZyG6ErNExUt-5jL2GFJzqV7DtaG8IH-epkV3B6SHcXocMoDFwGK-OnLQahxr5vYMu13Ia62dtLnTsSW5W6sdW3VzGHOJ0DiEGe-Tq8AsJIHOuNQdpKpeqypWwjUMOBRlWejbww\" />元；其他用品及服务同比增量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=p8u5WGghVD9qv0qsympgKAY_RVtuXrHO89tSqXTWUFR5CyJI8piv2EQqT-dthtL90ZI9iRLMQz3ap-0Ahx2YXwK5RHxhjXzSnekdOnVFxC45hvIJjayRpm4D42qR0DBgtj-cfQhbGQPqvy2_Uexr7A\" />元。比较可知，食品烟酒类、居住类的农村居民消费支出同比增加超过120元，共2项。</p><p>故正确答案为B。</p>",
+                "source": "2023年广东省公务员录用考试《行测》题（乡镇卷）（网友回忆版）第98题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5510181,
+                "content": "<p>2020年，全国城市供水总量约为：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 3,
+                "createdTime": 1677353440925,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "600亿立方米",
+                            "620亿立方米",
+                            "630亿立方米",
+                            "724亿立方米"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“2020年，全国城市供水总量约为”，结合材料时间为2021年，可判定本题为基期计算问题。定位文字材料第一段可得：2021年，全国城市供水总量673.34亿立方米，同比增长6.96%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh7ggmdEaxPldU5-KOoxgtWk\" />，则所求<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=NdAo9FOBgpQm1SnBARhxCeLYt4rMLqtzRnnhWmQbiZP-GHmwB3Re3ugaIcE-B5_FqhI-2s8VdrDoHEd2wBeSjg\" />亿立方米，与C项最接近。</p><p>故正确答案为C。</p>",
+                "source": "2023年陕西省公务员录用考试《行测》题（网友回忆版）第101题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509992,
+                "content": "<p>图2中，城市人均日生活用水量最高的省份是用水量中位数省份的约：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 3,
+                "createdTime": 1677343801212,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1.78倍",
+                            "1.88倍",
+                            "1.95倍",
+                            "2.03倍"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“图2中······是······”，结合选项求倍数，可判定本题为现期倍数问题。定位图2可知，城市人均日生活用水量最高的省份是海南，用水量为315升；城市人均日生活用水量中位数省份，即排名第8的省份为宁夏，用水量为168升。故城市人均日生活用水量最高的省份是用水量中位数省份的倍数为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=RuL-ntNHNwL1wmVeaHBErKmBiNIe5dsbvuPgQ1XvPzM\" />倍，与B项最接近。</p><p>故正确答案为B。</p>",
+                "source": "2023年陕西省公务员录用考试《行测》题（网友回忆版）第104题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509989,
+                "content": "<p>下列折线图中，最能准确反映2013~2021年全国城市人均日生活用水量同比增长率变化情况的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677343751074,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "<p><img width=\"286px\" height=\"167px\" src=\"//fb.fbstatic.cn/api/tarzan/images/186898e3b0b6121.png?width=700\" /></p>",
+                            "<p><img width=\"286px\" height=\"167px\" src=\"//fb.fbstatic.cn/api/tarzan/images/186898e6f66dc5c.png?width=700\" /></p>",
+                            "<p><img width=\"248px\" height=\"149px\" src=\"//fb.fenbike.cn/api/tarzan/images/186898e9d571d7c.png?width=700\" /></p>",
+                            "<p><img width=\"248px\" height=\"149px\" src=\"//fb.fbstatic.cn/api/tarzan/images/186898ecb661237.png?width=700\" /></p>"
+                        ],
+                        "type": 102
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“······同比增长率变化情况的是”，可判定本题为一般增长率问题。定位图1可得2013-2021年全国城市人均日生活用水量的数据。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEzPp7dq_Ckm4TwL4gCiOZx\" />，可得2013年全国城市人均日生活用水量同比增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=mNiyWLM36XpbQIrO63gY01r4Kc1jSV1m6Rw9MCj0uN-KXd5z8dgJnZPqlJM_SpnsupWsfXh8Q_DCzew7Q25PMg\" />；2014年同比增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=lqJrY2QZ0Q9HnyAL9cshZYzAWigLf-QfSETO7sDR6pCMs3OhHJsR_k5hZtDIAa-PL0xoLpjqcjDbeyGGflw_cA\" />，通过分子大、分母小可知，2013年的同比增长率＞2014年的同比年增长率，排除C项。2020年人均日生活用水量＜2019年人均日生活用水量，则2020年的同比增长率＜0，其余年份同比增长率均大于0，故2020年同比增长率应为最小，排除B项。2016年的同比增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=_klXCrx5tyQ2YYNQDkkaJ5fKpuHVFvzPxgLMyOvIfgJIbOE7PKHFN23MYOr4VADqdS17wWY3-ASqoQjLNqJKXA\" />，2021年的同比增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=C1YTPhu39UdLyUrZbUxPoWrPIgzhy-20dvrmfTJfCULMsHqF7-qbNA_u-Rdx0LClAZI3Md6EFYRmdXWrJwu0Ag\" />，故2021年的同比增长率＞2016年的同比增长率，排除D项。</p><p>故正确答案为A。</p><p>注：排除C项后，2016-2020年的同比增长量变化不大，2021年的增长量5.63（185.03-179.40）最大，是其他年份的数倍，且基期量差别不大，所以2016-2021年这几年里2021年对应的增长率也最大，故正确答案为A。</p>",
+                "source": "2023年陕西省公务员录用考试《行测》题（网友回忆版）第103题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509495,
+                "content": "<p>能够从上述资料中推出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677312104104,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2022年7月全国太阳能发电增长量最大",
+                            "2022年6月全国核电发电量比5月份高",
+                            "2022年7月第二产业用电量高于上半年第二产业月均用电量",
+                            "2021年7月第一产业用电量低于2021年上半年第一产业月均用电量"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>A项：定位文字材料第一段可得，2022年7月份，太阳能发电同比增长13.0%，增速比上月加快3.1个百分点。并未给全国太阳能发电的其他数据，无法计算增长量，不能进行比较，错误；</p><p>B项：定位文字材料第一段可得，2022年7月份，核电同比下降3.3%，降幅比上月收窄5.7个百分点，根据百分点运算技巧，只能求得2022年6月的同比增长率而非环比增长率，无法判别2022年6月和5月全国核电发电量的大小关系，错误；</p><p>C项：根据题意，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=20tvBjp4Rtqb0dG6TttxGwcLYeAk10UyHUlYbfQVwp2eZpD4uVnouRr0TpLypYZ655dD22-cgH04cjeatA5EbQ\" />，推导可得7×7月&gt;1~7月。定位文字材料第二段可得，2022年1~7月，第二产业用电量32552亿千瓦时；7月份，第二产业用电量5132亿千瓦时。代入数据验证，2022年7月第二产业用电量×7=5132×7&gt;5100×7=35700亿千瓦时&gt;32552亿千瓦时（2022年1~7月第二产业用电量），满足“7×7月&gt;1~7月”，正确；</p><p>D项：根据题意，<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=jX3XrYxQXnqBJEkTdllWtLwrpTyzNqM6dHF4RAGtSENJMxYRhu4kZvkE97fEeNuEJSxb2W5OV_T39WzJQURTmA\" />，推导可得7×7月&lt;1~7月。定位文字材料第二段可得，2022年1~7月，第一产业用电量634亿千瓦时，同比增长11.1%；7月份，第一产业用电量121亿千瓦时，同比增长14.3%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh7ggmdEaxPldU5-KOoxgtWk\" />，则2021年7月第一产业用电量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=7F40ARyhIziOKyYKBaLrYj8tIA7ZCuv3Kxu07dNWcq5iN0GnFYDO0RhNcWOf1WClEwBi-cfBqFpP-Dps3m6Lpg\" />亿千瓦时，2021年1~7月第一产业用电量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=-8FGRIWUbaDhBG7kOwaqmHxk10i8Dn6KzjyCKze_5_BgxPl8Y_5xupo_D-BtEMn59GlZBlWpZSk5240YDpU-Vg\" />亿千瓦时。代入数据验证，2021年7月第一产业用电量×7=106×7=742亿千瓦时&gt;571亿千瓦时（2021年1~7月第一产业用电量），不满足“7×7月&lt;1~7月”，错误。</p><p>故正确答案为C。</p>",
+                "source": "2023年青海省公务员录用考试《行测》题（网友回忆版）第110题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509491,
+                "content": "<p>2021年1~6月全社会用电量累计约多少亿千瓦时？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677312076910,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "38258",
+                            "39851",
+                            "40472",
+                            "41279"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    4
+                ],
+                "solution": "<p>根据题干“2021年1~6月······”，结合材料时间为2022年1~7月和2022年7月，可判定本题为基期和差问题。定位文字材料第二段可得：2022年1~7月，全社会用电量累计49303亿千瓦时（A），同比增长3.4%（a）；7月份，全社会用电量8324亿千瓦时（B），同比增长6.3%（b）。根据公式：基期和差<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=-FVV9K2bkzgyZK8Jnq7vgLf3eG5oovlpmvHzjOeWRwKYzxCURR6pX1P3eqbBXoF0\" />，则2021年1~6月全社会用电量累计为<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=k3SqRp17cmmNUXptY4swtgVVPOEOicLaQqI3qfaFhnCT_PG8Lke80D38A9C4UOYi\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=YbN_DLHyFnqXh9IWMJpi1os00F6IkzVRVU5nHca9yRU\" />亿千瓦时。</p><p>故正确答案为B。</p>",
+                "source": "2023年青海省公务员录用考试《行测》题（网友回忆版）第109题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            }
+        ]
+    },
+    {
+        "materials": [
+            {
+                "id": 340961,
+                "content": "<p>        2021年中国雨季特征为华南前汛期于4月26日开始，7月2日结束，雨季长度为67天，总雨量494.6毫米。与正常年份相比，开始偏晚20天，结束偏早4天，雨季长度偏短24天，雨量偏少31%。</p><p>        西南雨季于6月4日开始，10月4日结束，雨季长度为122天，总雨量634.5毫米。与正常年份相比，开始偏晚9天，结束偏早10天，雨季长度偏短19天，雨量偏少15%。</p><p>        华北雨季于7月12日开始，9月9日结束，雨季长度为59天，总雨量276.4毫米。与正常年份相比，开始偏早6天，结束偏晚22天，雨季长度偏长28天，为1961年以来第二长；雨量偏多103%，为1961年以来第三多。</p><p>        东北雨季于6月5日开始，8月29日结束，雨季长度为85天，总雨量364.3毫米。与正常年份相比，开始偏早17天，结束偏晚4天，雨季长度偏长21天，雨量偏多23%。</p><p>        华西秋雨于8月23日开始，雨季长度为77天，总雨量379.9毫米。与正常年份相比，开始偏早8天，结束偏晚7天，雨季长度偏长15天，雨量偏多87%，为1961年以来最多。</p><p>        梅雨于6月9日开始，7月11日出梅，梅雨期32天，梅雨量267.2毫米；与正常年份相比，入梅时间偏晚1天，出梅时间偏早7天，梅雨期偏短8天，梅雨量偏少22%，与2020年梅雨量780.9毫米相比差距明显。江南入梅时间偏晚1天，出梅偏晚3天，雨量偏少15%；长江中下游入梅偏早4天，出梅偏早2天，雨量偏少8%；江淮区入梅时间偏早8天，出梅时间偏早4天，梅雨量偏少14%。</p>",
+                "accessories": []
+            },
+            {
+                "id": 340943,
+                "content": "<p>        制造业采购经理人指数PMI由5个分类指数加权计算而成，5个分类指数及其权数是依据其对经济的先行影响程度确定的。具体包括：新订单指数，权数为30%；生产指数，权数为25%；从业人员指数，权数为20%；供应商配送时间指数，权数为15%；原材料库存指数，权数为10%。其中，供应商配送时间指数为逆指数，在合成制造业PMI指数时进行反向运算，即100%减供应商配送时间指数。</p><p>        2022年8月份，制造业PMI指数为49.4%，低于PMI指数临界点（50%），比上月上升0.4个百分点，制造业景气水平有所回升。下面给出2021年8月至2022年8月制造业PMI指数走势图及相关分类指数数据。</p><p><img width=\"675px\" height=\"462px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18687c3a26b443c.png?width=700\" /></p><p><img width=\"700px\" height=\"738px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/18687e4309809ab.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 338030,
+                "content": "<p>        超级计算，也被称为高性能计算。从算力资源的需求看，高性能计算可以分为尖端超算、通用超算、业务超算和人工智能超算四大类。</p><p><img width=\"672px\" height=\"249px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/185920c2bcf3c29.png?width=700\" /></p><p><img width=\"700px\" height=\"417px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/185920c5b969625.png?width=700\" /></p>",
+                "accessories": []
+            },
+            {
+                "id": 338024,
+                "content": "<p>        2021年，全国纺织品服装出口3155亿美元，同比增长8.4%。其中，纺织品出口1452.2亿美元，同比下降5.6%，较2019年增长22.0%；服装出口1702.8亿美元，同比增长24.0%，较2019年增长16.0%。其中，针织服装及衣着附件出口864.8亿美元，同比增长39.0%；梭织服装及衣着附件出口701.2亿美元，同比增长12.6%。</p><p>        2021年，中国对美国、东盟、欧盟和日本的纺织品服装出口合计1724.9亿美元。其中，对美国出口额为563.5亿美元，同比增长4.0%；向东盟十国出口纺织品服装491.2亿美元，同比增长24.9%；对欧盟27国出口纺织品服装469.9亿美元，同比下降11.1%；对日本出口纺织品服装200.3亿美元，同比下降7.2%。</p><p>        2021年，中国向全球出口纺织纱线138亿美元，出口织物667亿美元，分别同比增长41.5%和34.3%。纺织制品当中，防疫类口罩出口额为129.5亿美元，出口金额、数量同比分别下降76.0%和13.0%。除防疫类口罩外，其他纺织制品出口额为517.2亿美元，同比增长27.5%。</p><p>        2021年，中国向“一带一路”沿线国家出口纺织品服装1137.9亿美元，同比增长24.5%，较2019年增长17.3%；同时，中国自“一带一路”沿线国家进口纺织品服装131.6亿美元，同比增长24.5%。</p>",
+                "accessories": []
+            }
+        ],
+        "q2subQuestionIds": null,
+        "cdnUrls": null,
+        "solutions": [
+            {
+                "id": 5509984,
+                "content": "<p>2021年雨季开始时间最迟的两个地区在雨季开始时间上相差了：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 3,
+                "createdTime": 1677343563925,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "34天",
+                            "35天",
+                            "41天",
+                            "42天"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>定位文字材料可知：2021年雨季开始时间最迟的两个地区分别为华北（7月12日）、华西（8月23日），故时间上相差了31-12+23=42天（7月共有31天）。</p><p>故正确答案为D。</p>",
+                "source": "2023年陕西省公务员录用考试《行测》题（网友回忆版）第111题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509478,
+                "content": "<p>不能从上述资料中推出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1677311969499,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "构成PMI指数的5个分类指数低于临界点，则PMI指数低于临界点",
+                            "2022年8月原材料库存指数为48.0%，比上个月上升0.1个百分点",
+                            "2022年8月从业人员指数为48.9%，比上个月上升0.3个百分点，说明用工景气度略有回升",
+                            "2022年8月供应商配送时间指数为49.5%，比上个月下降0.6个百分点，说明供应商配送时间较上月略有缩短"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>A项：根据文字材料第一段可知PMI计算中5个分类指数的权数，假设新订单、生产、从业人员、原材料库存指数均为49.9%，供应商配送时间指数为1%，根据“供应商配送时间指数为逆指数，在合成制造业PMI指数时进行反向运算，即100%减供应商配送时间指数”可得这种假设情况下PMI=49.9%×30%+49.9%×25%+49.9%×20%+（100%-1%）×15%+49.9%×10%=57.265%，大于PMI指数临界点（50%），存在反例，错误。</p><p>B项：定位表格材料可知，2022年8月原材料库存指数为48.0%，7月指数为47.9%，8月比上个月上升48.0%-47.9%=0.1个百分点，正确。</p><p>C项：定位表格材料可知，2022年8月从业人员指数为48.9%，7月指数为48.6%，8月比上个月上升48.9%-48.6%=0.3个百分点；结合文字材料第二段可知，指数上升代表景气水平回升，因此用工景气度略有回升，正确。</p><p>D项：定位表格材料可知，2022年8月供应商配送时间指数为49.5%，7月指数为50.1%，8月比上个月下降50.1%-49.5%=0.6个百分点，但根据材料无法得知指数升降与供应商配送时间长短的关系，因此无法推出，错误。</p><p>（注释：根据材料数据，只知道供应商配送时间指数的变化，以及如何运用供应商配送时间指数计算PMI。所以仅仅结合材料，无法得出供应商配送时间指数与配送时间的直接关系。）</p><p>本题为选非题，故正确答案为AD。</p>",
+                "source": "2023年青海省公务员录用考试《行测》题（网友回忆版）第115题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509476,
+                "content": "<p>如果某月PMI指数为49%，而下个月新订单指数增加了1个百分点，供应商配送时间指数增加了3个百分点，其他分类指数不变，则下个月PMI指数：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677311955470,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "增加0.15个百分点",
+                            "增加0.75个百分点",
+                            "减少0.15个百分点",
+                            "减少0.75个百分点"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>根据选项“增长/减少······个百分点”，可判定本题为增长量计算问题。（指数的单位为百分数，百分数的差用百分点来表示，故指数的增长量的单位为百分点）。定位文字材料第一段可得：新订单指数，权数为30%；供应商配送时间指数，权数为15%；供应商配送时间指数为逆指数，在合成制造业PMI指数时进行反向运算，即100%减供应商配送时间指数。因此，新订单指数增加1个百分点，使PMI指数增加1%×30%=0.3%；供应商配送时间指数增加了3个百分点，使PMI指数增加-3%×15%=-0.45%。所以，PMI指数变化为0.3%+（-0.45%）=-0.15%，即下个月PMI指数减少0.15个百分点。</p><p>故正确答案为C。</p>",
+                "source": "2023年青海省公务员录用考试《行测》题（网友回忆版）第114题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509472,
+                "content": "<p>2022年1~8月，供应商配送时间指数最小的那个月，与去年同期相比下降了23.4%，则去年同期供应商配送时间指数大约是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1677311940239,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "37%",
+                            "48.6%",
+                            "49.6%",
+                            "51%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>根据题干“······去年同期供应商配送时间指数大约是”，可判定本题为基期计算问题。定位表格材料可得：2022年1～8月，供应商配送时间指数最小的月份为4月，指数为37.2%。根据公式：<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=_v4M8OvGPcNvnTDm8CXWRR773Lms3XX3kqrqzE-XGhqGZ8_C3wpcGzNI0hbPY4AV\" />，可得所求量为<img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=inq7qUAtGqmFJmXz_yRACXidIGELylQY_4V9B9Ky1hw\" /><img flag=\"tex\" src=\"https://fb.fenbike.cn/api/planet/accessories/formulas?latex=wbY7i5oFSWs-C-vC29AkAWhGQqfY0b6Es8JPk4mQuwMxMXPvtIr_ZdbJQ-II8ysq\" />。</p><p>故正确答案为B。</p>",
+                "source": "2023年青海省公务员录用考试《行测》题（网友回忆版）第113题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5509468,
+                "content": "<p>2022年1~8月，PMI指数和新订单指数均在临界点之上的月份有几个？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 3,
+                "createdTime": 1677311910757,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1",
+                            "2",
+                            "3",
+                            "4"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "1",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    1
+                ],
+                "solution": "<p>定位文字材料第二段可得：指数临界点为50%。定位表格材料第二列和第四列可知，2022年1~8月，PMI指数在临界点（50%）之上的月份有1月、2月、6月，新订单指数在临界点（50%）之上的月份有2月、6月，则PMI指数和新订单指数均在临界点（50%）之上的月份有2个（2月和6月）。</p><p>故正确答案为B。</p>",
+                "source": "2023年青海省公务员录用考试《行测》题（网友回忆版）第111题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5445854,
+                "content": "<p>能够从上述资料中推出的是：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1673185762128,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "2016～2020年，通用超算服务市场累计规模超过160亿元",
+                            "2016～2017年，业务超算服务市场累计规模比人工智能超算服务高30多亿元",
+                            "2018～2021年，第三方独立超算服务市场规模同比增量逐年递增",
+                            "2017～2020年，第三方互联网超算服务市场规模同比增速逐年递减"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>A项：定位统计表可得2016～2020年通用超算服务市场规模分别为23.9亿元、26.9亿元、29.7亿元、32.2亿元、37.8亿元。则所求=23.9+26.9+29.7+32.2+37.8<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ypDdVHSy0FzHCtkpNiwGuuW_2eLL4RTd6OuHPkr2tcs\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=E57xe7lKw0sWSyW2YP6KoA\" />亿元＜160亿元，错误；</p><p>B项：定位统计表可得2016～2017年业务超算服务市场规模分别为15.6亿元、24.1亿元，人工智能超算服务市场规模分别为4.7亿元、7.9亿元。则所求=（15.6+24.1）-（4.7+7.9）=39.7-12.6=27.1亿元＜30亿元，错误；</p><p>C项：定位统计图可得2017～2021年中国第三方独立超算服务市场规模。根据公式：增长量=现期量-基期量，则2018年同比增量=8.7-7.1=1.6亿元；2019年同比增量=11.7-8.7=3.0亿元；2020年同比增量=15.0-11.7=3.3亿元；2021年同比增量=18.3-15.0=3.3亿元。因2021年同比增量与2020年相等，则非逐年递增，错误；</p><p>D项：定位统计图可得2016～2020年中国第三方互联网超算服务市场规模。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEPl3Hld7lN1fixhByma6Co\" />，则2017年同比增速<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=FEBNkgbpS4A8vhwdQ4-_5Ix0QZUU9IQLXYsP6jdSk16Yr1f8HXlznPpJtdkmTj7ryYlEPDiTA01fpAOQjlYj4Q\" />；2018年同比增速<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=6LEObsOQiibnJDdxZzLM6nQDEe_COKPibgtcQNP8My_GG_YO2f8GzNrvnyxJYvBPJIgZj2zqehzlH5ofo3LAog\" />；2019年同比增速<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=UX0bd66FWHyT79bsebyxDijyQe1lkquPnDmSyzJAysVTfeO72K9o9zL08X9mkFXuDnciTOGGA2uTPgX-m5MZog\" />；2020年同比增速<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ThS7_IyePl_iw8tH9jMNNBJU0LqDlJ_foTe8hXqDpicRdBbEKrN-QfJxii0aInz7_MHj8-GAB-bAMbpdPDwxsA\" />。则2017～2020年中国第三方互联网超算服务市场规模同比增速逐年递减，正确。</p><p>故正确答案为D。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（副省级网友回忆版）第130题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5445850,
+                "content": "<p>2018年，中国超算服务4类细分市场中，同比增速最快和最慢的市场当年市场规模同比增速相差约多少个百分点？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1673185716857,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "41",
+                            "47",
+                            "53",
+                            "59"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    2
+                ],
+                "solution": "<p>根据题干“2018年······同比增速······百分点”，可判定本题为一般增长率问题。定位统计表可得2017、2018年中国超算服务4类细分市场的市场规模。根据公式：增长率<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh-fU73O8_CUBrJlYmyFWqBEPl3Hld7lN1fixhByma6Co\" />，可知2018年，中国超算服务4类细分市场的市场规模同比增速分别为：</p><p>尖端超算：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=iHVjXGxCo1xEpOgSE7HNNlEx3yPSN5Nq249Cn1ULM2XM6xSlOfZt95wa3gCaHXWlhNsVn5R-bVytFp1LjEsTDQ\" />；</p><p>通用超算：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=7kAdw1E5x0V3O_HXs6oOyW_Bk7eIGTDrSXmglRMYSuWz8FNxVbLJKLWCm4ckacnXyZC7LMbkpXp6t0olFfivFg\" />；</p><p>业务超算：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=3pBiBYx_4tzqMd4zi7-SxXIJbT0zGT2L6H59vmIi7QW9PPX6JjKsSnqB_oqTGORXXtD2gJVUSSAy469dSc9AwQ\" />；</p><p>人工智能超算：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=AGSoCByeO15UMm5-eyd2hljfxc9UCJareoiABYZ3-m-sBvA0qlfufu2RTI39RXLhBCv--aLmie-zGhVMl5Zb0Q\" />。</p><p>则增速最快的市场为人工智能超算，最慢的市场为尖端超算，所求=58%-5%=53%，即相差约53个百分点。</p><p>故正确答案为C。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（副省级网友回忆版）第127题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5445744,
+                "content": "<p>2020年，中国对“一带一路”沿线国家纺织品服装贸易顺差额约为多少亿美元？</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1673173912915,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "1129",
+                            "1253",
+                            "808",
+                            "1006"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“2020年······贸易顺差额约为多少亿美元”，结合材料时间为2021年，且贸易顺差额=出口额-进口额，可判定本题为基期和差问题。定位文字材料最后一段可得：2021年，中国向“一带一路”沿线国家出口纺织品服装1137.9亿美元，同比增长24.5%；同时，中国自“一带一路”沿线国家进口纺织品服装131.6亿美元，同比增长24.5%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh96NwHh3k7naTMvx9NcyT6s\" />，可得所求<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=RbbHCXDIxIxdsIzKmv_b4vmNr2zBsR_95vcnbvSGKVLnj-gkAF3I6sHNBibLy5wIJJZMa8we-N0hwK2oLV74fg\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=wUGScUH-EakuijmQgbQTwZFctvlBsz0cYMIqDBIofP6ARzKUrTrUDMHAhWFTWw3MlidOImxNjGOAStHk2roxyn-GqWuw5p3bPGr_CU8xWX8\" />亿美元，与C项最接近。</p><p>故正确答案为C。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（副省级网友回忆版）第135题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5445741,
+                "content": "<p>2020年中国出口的纺织制品总额中，防疫类口罩出口额占比约为：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 5,
+                "createdTime": 1673173891445,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "57%",
+                            "72%",
+                            "33%",
+                            "45%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "0",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“2020年······占比······”，结合材料时间为2021年，可判定本题为基期比重问题。定位文字材料第三段可知：2021年······纺织制品当中，防疫类口罩出口额为129.5亿美元，出口金额同比下降76.0%。除防疫类口罩外，其他纺织制品出口额为517.2亿美元，同比增长27.5%。根据公式：基期量<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=EJne-omLhZ0FR1-iNdylh96NwHh3k7naTMvx9NcyT6s\" />，可得2020年防疫类口罩出口额<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=jwP9FNheM7UbbbMd2K6TAttEpQ8-kKm7Gsd255rWdYeKfHtYyamZtz5Z0dvQJHI-\" />亿美元；2020年其他纺织制品出口额<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=_b_bUiJEIlshAgxyG2re3sC5a67KSrcfE_pCETtTMfjDSPT4A2MuLBX6ISvqpJhv\" />亿美元。根据公式：比重<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=ENG1-D-nqZhIk8gs4ilun1iBzn8WvJVACO95qTvN7M0\" />，可得所求<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=a_o-i8aBRyOAkNIiK0CtqISTfOMFI8J_Typcug11Vn7wDV2WqdcwLlcXdyErHbZX4NkmXduiG7h8K8dBYuqSow\" />。</p><p>故正确答案为A。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（副省级网友回忆版）第134题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            },
+            {
+                "id": 5445733,
+                "content": "<p>2020年，全国服装出口额比2019年：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 4,
+                "createdTime": 1673173829247,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "增长了10%以上",
+                            "下降了10%以上",
+                            "增长了不到10%",
+                            "下降了不到10%"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "3",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    3
+                ],
+                "solution": "<p>根据题干“2020年······比2019年”，结合选项为增长/下降+百分数，且材料给出2021年全国服装出口额的同比增速以及相对于2019年的增速，可判定本题为间隔增长率问题。定位文字材料第一段可得：2021年，全国服装出口1702.8亿美元，同比增长24.0%（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=oFLAFZONnL-LVntinP8KUA\" />），较2019年增长16.0%（<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=j79Pfc0xf6NPcxQ_q9fuZg\" />）。根据公式：<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=YXa5C6QBVeAuDpsutjc-P5QyXyXSkXpDP92zFPmpb1M\" />，代入数据则有<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=j_WIvV7eUt9TH41VuqHUgnODesLLOUZyzu7GtxXc7n0-Oi1SBmEk-AOplpMMKcMr\" />，解得<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=sb5szGH1jz59vhDKXjuf-JtmeUDXxj7HhONBYD6kFjGJ3H9i653DH7yOe0qI4LfR\" />，即下降了不到10%。</p><p>故正确答案为D。</p>",
+                "source": "2023年国家公务员录用考试《行测》题（副省级网友回忆版）第131题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            }
+        ]
+    },
+    {
+        "materials": [
+            {
+                "id": 335238,
+                "content": "<p>        2019年，A市居民人均可支配收入28920元，比上年增长9.6%。按常住地分，城镇居民人均可支配收入37939元；农村居民人均可支配收入15133元。全市居民人均消费支出20774元，比上年增长7.9%。按常住地分，城镇居民人均消费支出25785元；农村居民人均消费支出13112元。全市居民恩格尔系数为32.1%，比上年下降0.2个百分点。其中城镇为31.2%，农村为34.9%。</p><p><img width=\"700px\" height=\"649px\" src=\"https://fb.fbstatic.cn/api/tarzan/images/184b89620979d34.png?width=700\" /></p>",
+                "accessories": []
+            }
+        ],
+        "q2subQuestionIds": null,
+        "cdnUrls": null,
+        "solutions": [
+            {
+                "id": 5408650,
+                "content": "<p>2019年，A市城镇企业职工基本养老保险及城乡居民社会养老保险总参保人数比2018年多：</p>",
+                "material": null,
+                "type": 1,
+                "difficulty": 3,
+                "createdTime": 1669541713784,
+                "shortSource": null,
+                "accessories": [
+                    {
+                        "options": [
+                            "不到50万人",
+                            "50~100万人之间",
+                            "100~150万人之间",
+                            "150万人以上"
+                        ],
+                        "type": 101
+                    }
+                ],
+                "correctAnswer": {
+                    "choice": "2",
+                    "type": 201
+                },
+                "hasVideo": 0,
+                "materialIndexes": [
+                    0
+                ],
+                "solution": "<p>根据题干“2019年······比2018年多”，结合选项单位为“人”，可判定本题为增长量计算问题。定位表2可得：A市城镇企业职工基本养老保险，2018年参保人数为1050.33万人，2019年参保人数为1127.72万人；A市城乡居民社会养老保险，2018年参保人数为1120.12万人，2019年参保人数为1162.68万人。根据公式：增长量=现期量-基期量，则2019年A市城镇企业职工基本养老保险及城乡居民社会养老保险总参保人数比2018年多<img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=jbkVdk-qB7FuD-H2rOfHQpn27TkATGXGJRUQQ_8fkGTUhUo5Fi1ts0ru5g3ALmeJ\" /><img flag=\"tex\" src=\"https://fb.fbstatic.cn/api/planet/accessories/formulas?latex=6Crf1LAceGcmUx02ypUrLndHc7bkwEwaGcFoMSgyQxTDyADF1bA4TKYl4MeBMRk2\" />万人，在C项范围内。</p><p>故正确答案为C。</p>",
+                "source": "2022年四川下半年公务员录用考试《行测》试题（网友回忆版）第93题",
+                "tags": null,
+                "flags": [],
+                "solutionAccessories": []
+            }
+        ]
+    }
+]
+
